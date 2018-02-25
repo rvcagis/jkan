@@ -1,6 +1,6 @@
 title: RVCA GIS Open Data
-greeting: Rideau Valley Conservation Authority (RVCA) GIS Open Data Portal
-description: A lightweight, backend-free open data portal, powered by Jekyll.
+greeting: Rideau Valley Conservation Authority GIS Open Data Portal
+description: Welcome to the RVCA GIS Open Data Portal!!! Discover RVCA's Open Data by category, or explore our complete calalog of datasets. 
 baseurl: /opendata
 logo: https://gis.rvca.ca/imagery/RVCA_logo.jpg
 
