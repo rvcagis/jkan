@@ -66,8 +66,8 @@ hypothesis:
 
 # Twitter
 twittercard:
-  enabled: true
-  username: "@RideauValleyCA"
+  enabled: false
+  username: "@"
 
 # Open Graph
 opengraph:
