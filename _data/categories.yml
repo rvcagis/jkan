@@ -1,49 +1,28 @@
 - name: 'Flood, Regulations & Hazard Mapping'
-  logo: /img/categories/arts-culture-history.svg
+  logo: /img/categories/public-safety.svg
   logo_credit: ''
   featured: true
 - name: Landcover
-  logo: /img/categories/budget-finance.svg
-  logo_credit: Renan Ferreira Santos from the Noun Project
+  logo: /img/categories/real-estate-land-records.svg
+  logo_credit: ''
   featured: true
 - name: Waterbodies & Watercources
-  logo: /img/categories/economy.svg
-  logo_credit: Vectors Market from the Noun Project
+  logo: /img/categories/parks-recreation.svg
+  logo_credit: ''
   featured: true
 - name: Drinking Water Source Protection (DWSP)
   logo: /img/categories/education.svg
-  logo_credit: Sergey Patutin from the Noun Project
+  logo_credit: ''
   featured: true
 - name: Hydrometrics
-  logo: /img/categories/elections-politics.svg
-  logo_credit: Jean Soo from the Noun Project
+  logo: /img/categories/transportation.svg
+  logo_credit: ''
   featured: true
 - name: Aquatics & Surface Water Quality
   logo: /img/categories/environment.svg
   logo_credit: ''
   featured: true
 - name: Groundwater
-  logo: /img/categories/food.svg
-  logo_credit: Creative Stall from the Noun Project
-  featured: true
-- name: Temp
-  logo: /img/categories/health-human-services.svg
-  logo_credit: Timothy Miller from the Noun Project
-- name: Parks / Recreation
-  logo: /img/categories/parks-recreation.svg
-  logo_credit: Pipe Rosas Licht from the Noun Project
-- name: Planning / Zoning
   logo: /img/categories/planning-zoning.svg
   logo_credit: ''
-- name: Public Safety
-  logo: /img/categories/public-safety.svg
-  logo_credit: Rohith M S from the Noun Project
-- name: Real Estate / Land Records
-  logo: /img/categories/real-estate-land-records.svg
-  logo_credit: ''
-- name: Transportation
-  logo: /img/categories/transportation.svg
-  logo_credit: Dmitry Baranovskiy from the Noun Project
-- name: Uncategorized
-  logo: /img/categories/uncategorized.svg
-  logo_credit: Edward Boatman from the Noun Project
+  featured: true
