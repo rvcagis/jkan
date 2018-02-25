@@ -14,7 +14,7 @@ resources:
     url: >-
       https://gis.rvca.ca/arcgis/rest/services/RVCA_LandCover_Cache/MapServer/generateKml
     format: kml
-license: 'http://www.opendefinition.org/licenses/odc-by'
+license: 'https://gis.rvca.ca/dataSharing.htm'
 category:
   - Landcover
 maintainer: Dave Crossman
