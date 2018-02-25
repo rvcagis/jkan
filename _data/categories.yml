@@ -10,12 +10,12 @@
   logo: /img/categories/map-watershed.png
   logo_credit: ''
   featured: true
-- name: 'Hydrometrics (Stream Flow & Water Levels)'
-  logo: /img/categories/map-flow.png
-  logo_credit: ''
-  featured: true
 - name: 'Water Quality, Aquatics & Groundwater'
   logo: /img/categories/map-chemistry.png
+  logo_credit: ''
+  featured: true
+- name: 'Hydrometrics (Stream Flow & Water Level)'
+  logo: /img/categories/map-flow.png
   logo_credit: ''
   featured: true
 - name: 'Interactive Mapping, Links & Resourses'
