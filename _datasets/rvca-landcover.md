@@ -5,7 +5,7 @@ organization: RVCA
 notes: RVCA Landcover
 resources:
   - name: RVCA Landcover Shapefile
-    url: /img/categories/health-human-services.svg
+    url: 'ftp://FTP_Data:!Data1@204.101.207.53/data/landCover.zip'
     format: shp
   - name: RVCA Landcover Rest Endpoint
     url: 'https://gis.rvca.ca/arcgis/rest/services/RVCA_LandCover_Cache/MapServer'
