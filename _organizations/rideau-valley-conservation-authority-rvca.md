@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Rideau Valley Conservation Authority (RVCA)
-description: ''
+title: RVCA
+description: Rideau Valley Conservation Authority (RVCA)
 logo: ''
 ---
