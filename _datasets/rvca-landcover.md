@@ -23,6 +23,6 @@ resources:
 license: 'https://gis.rvca.ca/dataSharing.htm'
 category:
   - 'Landcover & Water (Wetlands, Woodlands & Water)'
-maintainer: 'Dave Crossman, RVCA GIS Coordinator'
+maintainer: Dave Crossman
 maintainer_email: gis@rvca.ca
 ---
