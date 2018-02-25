@@ -1,8 +1,8 @@
-- name: 'Flood, Regulations & Hazard Mapping (Section 28)'
+- name: 'Flood, Regulations & Hazard (Section 28)'
   logo: /img/categories/map-property.png
   logo_credit: ''
   featured: true
-- name: 'Landcover & Water (Wetlands, Woodlands & Water)'
+- name: 'Landcover (Wetlands, Woodlands & Water)'
   logo: /img/categories/map-landuse.png
   logo_credit: ''
   featured: true
