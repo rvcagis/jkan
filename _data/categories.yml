@@ -6,19 +6,19 @@
   logo: /img/categories/map-landuse.png
   logo_credit: ''
   featured: true
-- name: Drinking Water Source Protection (DWSP)
+- name: 'Drinking Water Source Protection (DWSP)'
   logo: /img/categories/map-watershed.png
   logo_credit: ''
   featured: true
-- name: Hydrometrics (Stream Flow & Water Levels)
+- name: 'Hydrometrics (Stream Flow & Water Levels)'
   logo: /img/categories/map-flow.png
   logo_credit: ''
   featured: true
-- name: Water Quality, Aquatics & Groundwater
+- name: 'Water Quality, Aquatics & Groundwater'
   logo: /img/categories/map-chemistry.png
   logo_credit: ''
   featured: true
-- name: Interactive Mapping, Links & Resourses 
+- name: 'Interactive Mapping, Links & Resourses'
   logo: /img/categories/map-mapping.png
   logo_credit: ''
   featured: true
