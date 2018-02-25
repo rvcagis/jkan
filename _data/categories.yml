@@ -1,10 +1,14 @@
 - name: 'Flood, Regulations & Hazard Mapping'
   logo: /img/categories/public-safety.svg
-  logo_credit: Generic Regulations - Section 28
+  logo_credit: ''
   featured: true
-- name: Landcover & Water
+- name: Landcover
   logo: /img/categories/real-estate-land-records.svg
-  logo_credit: 'Wetlands, Woodlands, Waterbodies & Watercourses'
+  logo_credit: ''
+  featured: true
+- name: Waterbodies & Watercources
+  logo: /img/categories/parks-recreation.svg
+  logo_credit: ''
   featured: true
 - name: Drinking Water Source Protection (DWSP)
   logo: /img/categories/education.svg
@@ -12,9 +16,13 @@
   featured: true
 - name: Hydrometrics
   logo: /img/categories/transportation.svg
-  logo_credit: Water Quantity (Flow & Water Levels)
+  logo_credit: ''
   featured: true
-- name: 'Surface Water & Groundwater '
+- name: Aquatics & Surface Water Quality
   logo: /img/categories/environment.svg
-  logo_credit: Water Quality & Aquatics
+  logo_credit: ''
+  featured: true
+- name: Groundwater
+  logo: /img/categories/planning-zoning.svg
+  logo_credit: ''
   featured: true
