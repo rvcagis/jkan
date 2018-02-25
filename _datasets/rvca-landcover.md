@@ -5,7 +5,7 @@ organization: RVCA
 notes: "RVCA Landcover - compiled yearly on a subwatershed basis. Each subwatershed is captured every six years and is based on imagery also on a 6 year cycle. i.e. 2008, 2014, 2020... \r\n\r\nPLEASE REVIEW THE LICENCE AGREEMENT LINK BELOW. BY DOWNLOADING THE DATA YOU AGREE TO THE ASSOCIATED LICENCE."
 resources:
   - name: RVCA Landcover Shapefile
-    url: 'ftp://FTP_Data:!Data1@204.101.207.53/data/OpenData/landCover.zip'
+    url: 'ftp://FTP_Data:!Data1@204.101.207.53/data/OpenData/landCoverSHP.zip'
     format: shp
   - name: RVCA Landcover Rest Endpoint
     url: 'https://gis.rvca.ca/arcgis/rest/services/RVCA_LandCover_Cache/MapServer'
@@ -15,11 +15,11 @@ resources:
       https://gis.rvca.ca/arcgis/rest/services/RVCA_LandCover_Cache/MapServer/generateKml
     format: kml
   - name: RVCA Landcover CAD
-    url: 'https://gis.rvca.ca/imagery/rvca_logo.jpg'
+    url: 'ftp://FTP_Data:!Data1@204.101.207.53/data/OpenData/landCoverCAD.zip'
     format: cad
 license: 'https://gis.rvca.ca/dataSharing.htm'
 category:
   - 'Landcover & Water (Wetlands, Woodlands & Water)'
-maintainer: Dave Crossman
+maintainer: Dave Crossman, RVCA GIS Coordinator
 maintainer_email: gis@rvca.ca
 ---
