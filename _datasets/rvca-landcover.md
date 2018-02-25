@@ -17,9 +17,12 @@ resources:
     url: >-
       https://gis.rvca.ca/arcgis/rest/services/RVCA_LandCover_Cache/MapServer/generateKml
     format: kml
+  - name: RVCA Landcover CAD
+    url: 'https://gis.rvca.ca/imagery/rvca_logo.jpg'
+    format: CAD
 license: 'https://gis.rvca.ca/dataSharing.htm'
 category:
   - 'Landcover & Water (Wetlands, Woodlands & Water)'
-maintainer: Dave Crossman
+maintainer: 'Dave Crossman, RVCA GIS Coordinator'
 maintainer_email: gis@rvca.ca
 ---
