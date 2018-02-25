@@ -16,5 +16,5 @@ description: >-
   land use that is valued and protected by all. Our mission is to understand,
   manage, protect, restore and enhance the Rideau watershed through science,
   stewardship, education, policy and leadership.
-logo: https://gis.rvca.ca/imagery/RVCA_logo.jpg
+logo: 'https://gis.rvca.ca/imagery/RVCA_logo3.jpg'
 ---
