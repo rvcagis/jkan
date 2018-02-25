@@ -5,7 +5,7 @@ baseurl: /jkan
 logo: https://gis.rvca.ca/Imagery/RVCA_logo.jpg
 
 # Site theme
-jkan_theme: Cosmo
+jkan_theme: Flatly
 
 # Authentication
 github_client_id: 5103540cb9fae39c4e5e
