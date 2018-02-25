@@ -1,8 +1,8 @@
 title: RVCA GIS Open Data
-greeting: Rideau Valley Conservation Authority GIS Open Data Portal
+greeting: Rideau Valley Conservation Authority GIS Open Data
 description: Welcome to the RVCA GIS Open Data Portal!!! Discover RVCA's Open Data by category, or explore our complete calalog of datasets. 
 baseurl: /opendata
-logo: https://gis.rvca.ca/imagery/RVCA_logo.jpg
+logo: /img/categories/RVCA_logo.jpg
 
 # Site theme
 jkan_theme: Slate
