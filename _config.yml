@@ -4,7 +4,7 @@ description: Welcome to the RVCA GIS Open Data Portal. Browse RVCA's Open Data b
 baseurl: /jkan
 logo: /img/categories/map-flow.png
 # Site theme
-jkan_theme: Sandstone
+jkan_theme: Cosmo
 
 # Authentication
 github_client_id: 5103540cb9fae39c4e5e
