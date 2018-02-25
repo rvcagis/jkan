@@ -49,6 +49,7 @@ resource_fields:
       - kmz
       - shp
       - xml
+      - cad
 
 organization_fields:
   - field_name: title
