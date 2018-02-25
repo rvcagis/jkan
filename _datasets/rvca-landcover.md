@@ -19,7 +19,7 @@ resources:
     format: kml
   - name: RVCA Landcover CAD
     url: 'https://gis.rvca.ca/imagery/rvca_logo.jpg'
-    format: CAD
+    format: cad
 license: 'https://gis.rvca.ca/dataSharing.htm'
 category:
   - 'Landcover & Water (Wetlands, Woodlands & Water)'
