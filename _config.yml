@@ -5,7 +5,7 @@ baseurl: /opendata
 logo: /img/categories/RVCA_logo.jpg
 
 # Site theme
-jkan_theme: Slate
+jkan_theme: Cosmo
 
 # Authentication
 github_client_id: 5103540cb9fae39c4e5e
