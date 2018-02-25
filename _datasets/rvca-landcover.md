@@ -19,7 +19,7 @@ resources:
     format: kml
 license: 'https://gis.rvca.ca/dataSharing.htm'
 category:
-  - Landcover & Water
+  - 'Landcover & Water (Wetlands, Woodlands & Water)'
 maintainer: Dave Crossman
 maintainer_email: gis@rvca.ca
 ---
