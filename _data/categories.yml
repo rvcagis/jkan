@@ -1,20 +1,20 @@
 - name: 'Flood, Regulations & Hazard Mapping (Section 28)'
-  logo: 'https://gis.rvca.ca/Imagery/github/map-property.png'
+  logo: img/categories/map-property.png
   logo_credit: ''
   featured: true
 - name: 'Landcover & Water (Wetlands, Woodlands & Water)'
-  logo: 'https://gis.rvca.ca/Imagery/github/map-landuse.png'
+  logo: img/categories/map-landuse.png
   logo_credit: ''
   featured: true
 - name: Drinking Water Source Protection (DWSP)
-  logo: 'https://gis.rvca.ca/Imagery/github/map-watershed.png'
+  logo: img/categories/map-watershed.png
   logo_credit: ''
   featured: true
 - name: Hydrometrics (Water Quantity - Flow & Water Levels)
-  logo: 'https://gis.rvca.ca/Imagery/github/map-flow.png'
+  logo: img/categories/map-flow.png
   logo_credit: ''
   featured: true
 - name: Surface Water & Groundwater (Water Quality & Aquatics)
-  logo: 'https://gis.rvca.ca/Imagery/github/map-chemistry.png'
+  logo: img/categories/map-chemistry.png
   logo_credit: ''
   featured: true
