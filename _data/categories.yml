@@ -10,11 +10,11 @@
   logo: /img/categories/map-watershed.png
   logo_credit: ''
   featured: true
-- name: Hydrometrics (Water Quantity - Flow & Water Levels)
+- name: Hydrometrics (Stream Flow & Water Levels)
   logo: /img/categories/map-flow.png
   logo_credit: ''
   featured: true
-- name: Surface Water & Groundwater (Water Quality & Aquatics)
+- name: Surface & Groundwater (Water Quality & Aquatics)
   logo: /img/categories/map-chemistry.png
   logo_credit: ''
   featured: true
