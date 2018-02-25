@@ -7,7 +7,7 @@ description: >-
   agency that works closely with municipal, provincial and federal government
   partners, landowners and community groups to conserve, restore, develop and
   manage natural resources in the watershed. The RVCA promotes an integrated
-  watershed approach — one that balances human, environmental and economic
+  watershed approach - one that balances human, environmental and economic
   needs. For over 50 years we have actively engaged in environmental monitoring
   and reporting, on-the-ground restoration and stewardship, conservation lands
   and education, development review and approval and flood forecasting and
