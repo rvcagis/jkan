@@ -17,5 +17,5 @@ description: >-
   manage, protect, restore and enhance the Rideau watershed through science,
   stewardship, education, policy and leadership.<br>
   <strong><a href="https://rvca.ca">rvca.ca</a> | <a href="https://gis.rvca.ca">gis.rvca.ca</a> | <a href="https://rvcagis.maps.arcgis.com">rvca.arcgis.com</a> | <a href="https://watersheds.rvca.ca">watersheds.rvca.ca</a></strong>
-logo: <a href="https://rvca.ca">'https://gis.rvca.ca/imagery/RVCA_logo.jpg'</a>
+logo: 'https://gis.rvca.ca/imagery/RVCA_logo.jpg'
 ---
