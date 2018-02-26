@@ -24,8 +24,8 @@ export default class {
     }
 
     // Filter datasets and render in items container
-    const paramFilters = pick(opts.params, ['organization', 'category', 'lastUpdate'])
-    const attributeFilters = pick(opts.el.data(), ['organization', 'category', 'lastUpdate'])
+    const paramFilters = pick(opts.params, ['organization', 'category'])
+    const attributeFilters = pick(opts.el.data(), ['organization', 'category'])
     const filters = createDatasetFilters(defaults(paramFilters, attributeFilters))
     const filteredDatasets = filter(opts.datasets, filters)
     const datasetsMarkup = filteredDatasets.map(TmplDatasetItem)
@@ -55,7 +55,7 @@ export default class {
   // Returns a function that can be used to search an array of datasets
   // The function returns the filtered array of datasets
   _createSearchFunction (datasets) {
-    const keys = ['title', 'notes', 'lastUpdate']
+    const keys = ['title', 'notes']
     return function (query) {
       const lowerCaseQuery = query.toLowerCase()
       return filter(datasets, function (dataset) {
