@@ -28,7 +28,7 @@ dataset_fields:
     label: Maintainer Email
     datajson: contactPoint.hasEmail
   - field_name: lastUpdate
-    label: Last Update (mm-dd-yy)
+    label: 'Last Update (mm-dd-yy)'
     datajson: lastUpdate
 
 resource_fields:
