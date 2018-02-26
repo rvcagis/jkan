@@ -8,6 +8,6 @@ export default class {
     }
 
     // Initialize select2 plugin
-    elements.select2.select2()
+    elements.select2.select3()
   }
 }
