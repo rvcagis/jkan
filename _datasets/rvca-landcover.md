@@ -30,4 +30,5 @@ category:
   - 'Landcover (Wetlands, Woodlands & Water)'
 maintainer: 'Dave Crossman, RVCA GIS Coordinator'
 maintainer_email: gis@rvca.ca
+lastUpdate: 01-13-2018
 ---
