@@ -93,9 +93,9 @@ layout: default
                 <tr>
                   <th>{{ field.label }}</th>
                   {% if value == 'Last Update (mm-dd-yyyy)'%}
-                    <td>{{ value }}</td>
-                  {% else %}
                     <td><strong>{{ value }}</strong></td>
+                  {% else %}
+                    <td>{{ value }}</td>
                   {% endif %}
                 </tr>
               {% endif %}
