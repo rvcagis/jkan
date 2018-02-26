@@ -2,7 +2,7 @@
 schema: default
 title: RVCA
 description: >-
-  <strong>Rideau Valley Conservation Authority</strong> (<a href="https://rvca.ca">rvca.ca</a>) is one of Ontario's 36
+  <strong>Rideau Valley Conservation Authority</strong> (RVCA) is one of Ontario's 36
   Conservation Authorities. We are a community based environmental protection
   agency that works closely with municipal, provincial and federal government
   partners, landowners and community groups to conserve, restore, develop and
@@ -15,6 +15,7 @@ description: >-
   natural shorelines, rich forests and wetlands, diverse habitat and sustainable
   land use that is valued and protected by all. Our mission is to understand,
   manage, protect, restore and enhance the Rideau watershed through science,
-  stewardship, education, policy and leadership.
+  stewardship, education, policy and leadership.<br>
+  <a href="https://rvca.ca">rvca.ca</a><a href="https://gis.rvca.ca">gis.rvca.ca</a><a href="https://rvcagis.maps.arcgis.com">rvca.arcgis.com</a>
 logo: 'https://gis.rvca.ca/imagery/RVCA_logo.jpg'
 ---
