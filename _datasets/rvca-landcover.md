@@ -3,7 +3,7 @@ schema: default
 title: RVCA Landcover
 organization: RVCA
 notes: >-
-  <strong>01-15-2018<strong><br>RVCA Landcover - compiled yearly on a
+  <strong>Last Update: 01-15-2018</strong><br>RVCA Landcover - compiled yearly on a
   subwatershed basis. Each subwatershed is captured every six years and is based
   on imagery also on a 6 year cycle. i.e. 2008, 2014, 2020.
 resources:
@@ -29,5 +29,5 @@ category:
   - 'Landcover (Wetlands, Woodlands & Water)'
 maintainer: 'Dave Crossman, RVCA GIS Coordinator'
 maintainer_email: gis@rvca.ca
-lastUpdate: 01-15-2018
+lastUpdate: <strong>01-15-2018</strong>
 ---
