@@ -40,7 +40,7 @@
 
   <fieldset>
     <h2>Additional Info</h2>
-    <i>Please review the Licence Agreement below. By downloading the data you agree to the associated licence.</i>
+    <h3>Please review the Licence Agreement below. By downloading the data you agree to the associated licence.</h3>
     {% for field in dataset_fields %}
       {% unless dataset_system_fields contains field.field_name %}
         {% assign template = field.form_template | default: "form/text.html" %}
