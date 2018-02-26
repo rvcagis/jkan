@@ -23,7 +23,7 @@
     {% assign category = dataset[f_category[field_name]] %}
 
     {% assign f_lastUpdate = dataset_fields | where: "datajson", "lastUpdate" | first %}
-    {% assign lastUpdate = dataset[f_category[field_name]] %}
+    {% assign lastUpdate = dataset[f_lastUpdate[field_name]] %}
 
     {% assign f_contact_point_fn = dataset_fields | where: "datajson", "contactPoint.fn" | first %}
     {% assign contact_point_fn = dataset[f_contact_point_fn[field_name]] %}
