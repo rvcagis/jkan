@@ -3,9 +3,9 @@ schema: default
 title: RVCA Landcover
 organization: RVCA
 notes: >-
-  RVCA Landcover - compiled yearly on a subwatershed basis. Each subwatershed is
-  captured every six years and is based on imagery also on a 6 year cycle. i.e.
-  2008, 2014, 2020.
+  <strong>01-15-2018<strong><br>RVCA Landcover - compiled yearly on a
+  subwatershed basis. Each subwatershed is captured every six years and is based
+  on imagery also on a 6 year cycle. i.e. 2008, 2014, 2020.
 resources:
   - name: RVCA Landcover Shapefile
     url: 'ftp://FTP_Data:!Data1@204.101.207.53/data/OpenData/landCoverSHP.zip'
@@ -29,5 +29,5 @@ category:
   - 'Landcover (Wetlands, Woodlands & Water)'
 maintainer: 'Dave Crossman, RVCA GIS Coordinator'
 maintainer_email: gis@rvca.ca
-lastUpdate: 01-13-2018
+lastUpdate: 01-15-2018
 ---
