@@ -5,8 +5,7 @@ organization: RVCA
 notes: >-
   RVCA Landcover - compiled yearly on a subwatershed basis. Each subwatershed is
   captured every six years and is based on imagery also on a 6 year cycle. i.e.
-  2008, 2014, 2020...PLEASE REVIEW THE LICENCE AGREEMENT LINK BELOW. BY
-  DOWNLOADING THE DATA YOU AGREE TO THE ASSOCIATED LICENCE.
+  2008, 2014, 2020.
 resources:
   - name: RVCA Landcover Shapefile
     url: 'ftp://FTP_Data:!Data1@204.101.207.53/data/OpenData/landCoverSHP.zip'
