@@ -5,10 +5,8 @@ organization: RVCA
 notes: >-
   <strong>RVCA GIS website - <a
   href="https://gis.rvca.ca">gis.rvca.ca</a></strong><br><br>View RVCA's
-  extensive mapping and data on desktop, tablet, or mobile using one of our
-  HTML5 interactive maps; consume web mapping services in GIS (ie ArcGIS Desktop
-  or ArcGIS Online) or your own interactive web maps from our REST endpoint or
-  RVCA ArcGIS Online.
+  extensive mapping and data on interactive maps; consume web mapping services
+  in ArcGIS Desktop, ArcGIS Online or your own interactive web maps.
 resources:
   - name: RVCA Mapping & Spatial Data website
     url: 'https://gis.rvca.ca'
@@ -17,6 +15,6 @@ license: ''
 category:
   - 'Interactive Mapping, Links and Resourses'
 maintainer: 'Dave Crossman, RVCA GIS Coordinator'
-maintainer_email: ''
+maintainer_email: '<a href="mailto:gis@rvca.ca">gis@rvca.ca</a>'
 lastUpdate: <strong>01-13-2018</strong>
 ---
