@@ -1,0 +1,12 @@
+---
+schema: default
+title: RVCA Public GeoPortal
+organization: RVCA
+notes: "The <strong>RVCA GeoPortal</strong> is your one-stop-shop for everything RVCA GIS.\r\nThe RVCA GeoPortal has multiple tools & themes to help you find data and locations. The tools include Address, Lot/Con, Water Feature search tools and the themes include Source Protection, Generic Regulations, Stream Gauges, Conservation Areas and Elevation."
+license: ''
+category:
+  - 'Interactive Mapping, Links and Resourses'
+maintainer: 'Dave Crossman, RVCA GIS Coordinator'
+maintainer_email: gis@rvca.ca
+lastUpdate: 01-01-2018
+---
