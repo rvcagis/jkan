@@ -1,21 +1,21 @@
-- name: 'Flood, Regulations and Hazards (Section 28)'
-  logo: /img/categories/map-property.png
-  logo_credit: ''
-  featured: true
 - name: 'Landcover (Wetlands, Woodlands & Water)'
   logo: /img/categories/map-landuse.png
+  logo_credit: ''
+  featured: true
+- name: 'Flood, Regulations and Hazards (Section 28)'
+  logo: /img/categories/map-property.png
   logo_credit: ''
   featured: true
 - name: 'Hydrometrics (Stream Flow & Water Level)'
   logo: /img/categories/map-flow.png
   logo_credit: ''
   featured: true
-- name: 'Drinking Water Source Protection (DWSP)'
-  logo: /img/categories/map-watershed.png
-  logo_credit: ''
-  featured: true
 - name: 'Water Quality, Aquatics and Groundwater'
   logo: /img/categories/map-chemistry.png
+  logo_credit: ''
+  featured: true
+- name: 'Drinking Water Source Protection (DWSP)'
+  logo: /img/categories/map-watershed.png
   logo_credit: ''
   featured: true
 - name: 'Interactive Mapping, Links and Resourses'
