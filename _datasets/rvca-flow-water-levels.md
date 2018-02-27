@@ -13,7 +13,7 @@ resources:
   - name: RVCA Flow & Water Levels
     url: 'http://his.rvca.ca/rvcafwl'
     format: html
-license: ''
+license: 'https://gis.rvca.ca/termsUse.htm'
 category:
   - Hydrometrics (Stream Flow & Water Level)
 maintainer: 'Dave Crossman, RVCA GIS Coordinator'
