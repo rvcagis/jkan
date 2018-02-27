@@ -20,7 +20,7 @@ layout: default
       {% if category.logo and category.logo != empty %}
         <img src="{{ site.baseurl }}{{ category.logo }}" alt="{{ logo_alt }}">
       {% endif %}
-      <font color ="red"><big><strong>{{ category.name }}</strong></big></font>
+      <font color ="red"><big>{{ category.name }}</big></font>
     </a>
   {% endif %}
 {% endfor %}
