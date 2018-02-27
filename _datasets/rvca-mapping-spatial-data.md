@@ -8,12 +8,12 @@ notes: >-
   ArcGIS Online or your own interactive web maps.
 resources:
   - name: RVCA GIS website
-    url: 'https://gis.rvca.ca/'
+    url: 'https://gis.rvca.ca'
     format: html
 license: ''
 category:
   - 'Interactive Mapping, Links and Resourses'
 maintainer: 'Dave Crossman, RVCA GIS Coordinator'
-maintainer_email: '<a href="mailto:gis@rvca.ca">gis@rvca.ca</a>'
+maintainer_email: <a href="mailto:gis@rvca.ca">gis@rvca.ca</a>
 lastUpdate: <strong>01-13-2018</strong>
 ---
