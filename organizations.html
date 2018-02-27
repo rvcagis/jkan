@@ -18,8 +18,8 @@ permalink: /organizations/
       {% endif %}
     </div>
     <div class="media-body">
-      <h3 class="media-heading"><a href="{{ site.baseurl }}{{ organization.url }}"><strong>{{ organization.title }}</strong></a></h3>
-      <p><a href="{{ site.baseurl }}/datasets/?organization={{ organization.title | slugify }}"><h3>{{ dataset_count }} datasets available...</h3></a></p>
+      <h3 class="media-heading"><a href="{{ site.baseurl }}{{ organization.url }}">{{ organization.title }}</a></h3>
+      <p><a href="{{ site.baseurl }}/datasets/?organization={{ organization.title | slugify }}"><h4><strong>{{ dataset_count }} datasets available...</strong></h4></a></p>
       <p><h4>{{ organization.description }}</h4></p>
     </div>
   </div>
