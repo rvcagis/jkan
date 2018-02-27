@@ -12,7 +12,7 @@
     </div>
 
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-      <ul class="nav navbar-nav">
+      <big><ul class="nav navbar-nav">
         {% for link in site.navigation %}
           {% if page.url contains link.url %}
             <li class="active"><a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }} <span class="sr-only">(current)</span></a></li>
@@ -20,7 +20,7 @@
             <li><a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
           {% endif %}
         {% endfor %}
-      </ul>
+        </ul></big>
       <ul class="nav navbar-nav navbar-right">
         <li><img src="{{ site.baseurl }}/img/categories/RVCA_logo_transparent.png" alt="" style="width:120px"></li>
       </ul>
