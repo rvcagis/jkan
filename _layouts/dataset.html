@@ -78,7 +78,7 @@ layout: default
             <th>License</th>
             <td>
               <a property="dct:license" resource="{{ page.license }}" href="{{ page.license }}">
-                {{ site.data.licenses[page.license] }}
+                <srtong>{{ site.data.licenses[page.license] }}</strong>
               </a>
             </td>
           </tr>
@@ -92,13 +92,7 @@ layout: default
               {% else %}
                 <tr>
                   <th>{{ field.label }}</th>
-                  <td>
-                    {% if {{ field.label }} == "License" %}
-                      <strong>{{ value }}</strong>
-                    {% else %}
-                      {{ value }}
-                    {% endif %}
-                  </td>
+                  <td>{{ value }}</td>                            
                 </tr>
               {% endif %}
             {% endif %}
