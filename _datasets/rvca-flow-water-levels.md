@@ -11,12 +11,12 @@ notes: >-
   particular date/time.
 resources:
   - name: RVCA Flow & Water Levels
-    url: 'http://his.rvca.ca/rvcafwl/'
+    url: 'http://his.rvca.ca/rvcafwl'
     format: html
-license: ''
+license: 'RVCA GeoPortal Use'
 category:
   - Hydrometrics (Stream Flow & Water Level)
 maintainer: 'Dave Crossman, RVCA GIS Coordinator'
-maintainer_email: '<a href="mailto:gis@rvca.ca">gis@rvca.ca</a>'
+maintainer_email: <a href="mailto:gis@rvca.ca">gis@rvca.ca</a>
 lastUpdate: <strong>01-15-2018</strong>
 ---
