@@ -19,6 +19,6 @@ license: 'https://gis.rvca.ca/termsUse.htm'
 category:
   - 'Water Quality, Aquatics and Groundwater'
 maintainer: 'Dave Crossman, RVCA GIS Coordinator'
-maintainer_email: <a href=
+maintainer_email: <a href="mailto:gis@rvca.ca">gis@rvca.ca</a>
 lastUpdate: <strong>01-14-2018</strong>
 ---
