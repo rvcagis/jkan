@@ -3,7 +3,7 @@ schema: default
 title: RVCA Mapping & Spatial Data
 organization: RVCA
 notes: >-
-  <strong>RVCA GIS website</strong> - gis.rvca.ca<br><br>View RVCA's
+  <strong>RVCA GIS website</strong><br><br>View RVCA's
   extensive mapping and data on interactive maps; consume web mapping services
   in ArcGIS Desktop, ArcGIS Online or your own interactive web maps - <a href="https://gis.rvca.ca">gis.rvca.ca</a>.
 resources:
