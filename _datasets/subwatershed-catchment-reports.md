@@ -3,8 +3,7 @@ schema: default
 title: Subwatershed & Catchment Reports
 organization: RVCA
 notes: >-
-  <strong>Subwatershed & Catchment Reports</strong> - <a
-  href="https://watersheds.rvca.ca">watersheds.rvca.ca</a>&nbsp;<br><br>The RVCA
+  <strong>Subwatershed & Catchment Reports</strong> - watersheds.rvca.ca<br><br>The RVCA
   reports on the Rideau’s six major subwatersheds. We also produce individual
   reports on the Rideau watershed’s catchments. These catchment reports are a
   compilation of data collected through the RVCA’s watershed monitoring and land
