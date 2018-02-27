@@ -6,10 +6,10 @@ description: >-
   Ontario's 36  Conservation Authorities. For over 50 years we have actively
   engaged in environmental monitoring   and reporting, on-the-ground restoration
   and stewardship, conservation lands  and education, development review and
-  approval and flood forecasting and  warning.<br><strong>Our Vision</strong> is
+  approval and flood forecasting and  warning.<br><br><strong>Our Vision</strong> is
   for a thriving watershed with clean abundant water,   natural shorelines, rich
   forests and wetlands, diverse habitat and sustainable  land use that is valued
-  and protected by all.<br><strong>Our Mission</strong> is to understand, 
+  and protected by all.<br><br><strong>Our Mission</strong> is to understand, 
   manage, protect, restore and enhance the Rideau watershed through science, 
   stewardship, education, policy and leadership.<br> <a
   href="https://rvca.ca">rvca.ca</a> | <a
