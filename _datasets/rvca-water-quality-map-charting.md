@@ -15,10 +15,10 @@ resources:
   - name: RVCA Water Quality Map & Charting
     url: 'https://gis.rvca.ca/html5/?viewer=rvcageoportal_wq'
     format: html
-license: ''
+license: 'https://gis.rvca.ca/termsUse.htm'
 category:
   - 'Water Quality, Aquatics and Groundwater'
 maintainer: 'Dave Crossman, RVCA GIS Coordinator'
-maintainer_email: <a href="mailto:gis@rvca.ca">gis@rvca.ca</a>
+maintainer_email: <a href=
 lastUpdate: <strong>01-14-2018</strong>
 ---
