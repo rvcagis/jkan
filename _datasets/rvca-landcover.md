@@ -24,7 +24,7 @@ resources:
     url: >-
       https://rvcagis.maps.arcgis.com/apps/webappviewer/index.html?id=fee2c1a621224da5be37c8301ca96db6
     format: html
-license: 'https://gis.rvca.ca/dataSharing.htm'
+license: <strong>'https://gis.rvca.ca/dataSharing.htm'</strong>
 category:
   - 'Landcover (Wetlands, Woodlands & Water)'
 maintainer: 'Dave Crossman, RVCA GIS Coordinator'
