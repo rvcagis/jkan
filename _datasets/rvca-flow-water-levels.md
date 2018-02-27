@@ -8,7 +8,7 @@ notes: >-
   several locations on the Rideau River system. The flow and water level graphs
   are interactive and can be filtered for a desired date range and the user can
   hover over the graph to show the flow and/or water level information at a
-  particular date/time.
+  particular date/time - <a href="http://his.rvca.ca/rvcafwl">his.rvca.ca</a>.
 resources:
   - name: RVCA Flow & Water Levels
     url: 'http://his.rvca.ca/rvcafwl'
