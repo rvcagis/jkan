@@ -42,7 +42,7 @@ layout: default
       <h4>{{ page.notes }}</h4>
 
       <h3>Resources</h3>
-      <ul>
+      <ul><h4>
         {% for resource in page.resources %}
         <li data-hook="resource-item" property='dcat:distribution' typeof='dcat:Distribution'>
           <a href="{{ resource.url }}" property='dcat:accessURL'><span property="dct:title">{{ resource.name }}</span></a>
@@ -67,7 +67,7 @@ layout: default
             {% endfor %}
           </table>
         </li>
-        {% endfor %}
+        {% endfor %}</h4>
       </ul>
 
       <h3>Additional Info</h3>
