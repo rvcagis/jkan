@@ -3,9 +3,9 @@ schema: default
 title: RVCA Landcover
 organization: RVCA
 notes: >-
-  Last Update (mm-dd-yyyy): <strong>01-15-2018<br><br>RVCA Landcover</strong> - compiled yearly on a
+  Last Update (mm-dd-yyyy): <strong>01-15-2018<br><br>RVCA Landcover</strong>. Landcover indicates the physical land type on the earth's surface (ie woodland, wetland, water, agriculture, builtup-area etc). It is compiled annually on a
   subwatershed basis. Each subwatershed is captured every six years and is based
-  on imagery also on a 6 year cycle. i.e. 2008, 2014, 2020.
+  on ortho-rectified imagery, also captured on a 6 year cycle (ie 2008, 2014, 2020...). RVCA uses this dataset extensively for Subwatershed & Catchment Reporting.
 resources:
   - name: RVCA Landcover Shapefile
     url: 'ftp://FTP_Data:!Data1@204.101.207.53/data/OpenData/landCoverSHP.zip'
