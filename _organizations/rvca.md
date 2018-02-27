@@ -16,5 +16,5 @@ description: >-
   href="https://gis.rvca.ca">gis.rvca.ca</a> | <a
   href="https://rvcagis.maps.arcgis.com">rvca.arcgis.com</a> | <a
   href="https://watersheds.rvca.ca">watersheds.rvca.ca</a>
-logo: 'https://gis.rvca.ca/imagery/RVCA_logo.jpg'
+logo: 'https://gis.rvca.ca/imagery/RVCA_logo_transparent.png'
 ---
