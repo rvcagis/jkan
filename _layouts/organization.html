@@ -19,7 +19,7 @@ layout: default
       </h1>
       <p><h4>{{ page.description }}</h4></p>
       <div data-component="datasets-list" data-organization="{{ page.title | slugify }}">
-        <h3 class="datasets-count" data-hook="datasets-count"></h3>
+        <strong><h3 class="datasets-count" data-hook="datasets-count"></h3></strong>
         <input type="text" data-hook="search-query" placeholder="Search..." class="form-control">
         <div data-hook="datasets-items"></div>
       </div>
