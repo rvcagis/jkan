@@ -70,7 +70,7 @@ dataset {
 
 .homepage-categories .thumbnail {
   display: inline-block;
-  min-width: 120px;
+  min-width: 20px;
   text-align: center;
   border: none;
 }
