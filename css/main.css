@@ -74,12 +74,12 @@ dataset {
   min-width: 120px;
   text-align: center;
   border: none;
-  padding: 10px;
-  margin: 50px;
+  padding: 0px;
+  margin: 200px;
 }
 
 .homepage-categories .thumbnail img {
-  height: 200px;
+  height: 300px;
 }
 
 .homepage-categories a {
