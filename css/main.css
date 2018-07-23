@@ -74,7 +74,7 @@ dataset {
   min-width: 10px;
   text-align: center;
   border: none;
-  padding: 200px;
+  padding: 0px;
 }
 
 .homepage-categories .thumbnail img {
