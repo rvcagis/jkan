@@ -18,7 +18,7 @@ resources:
     format: html
 license: 'https://gis.rvca.ca/termsUse.htm'
 category:
-  - 'Interactive Mapping, Links and Resourses'
+  - 'Web Maps & Services'
 maintainer: 'Dave Crossman, RVCA GIS Coordinator'
 maintainer_email: <a href="mailto:gis@rvca.ca">gis@rvca.ca</a>
 lastUpdate: <strong>01-13-2018</strong>
