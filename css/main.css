@@ -61,12 +61,12 @@ dataset {
   text-align: justify;
 }
 
-.homepage-categories:after,
+/*.homepage-categories:after,
 .theme-gallery:after {
   display: inline-block;
   width: 100%;
   content: '';
-}
+}*/
 
 .homepage-categories .thumbnail {
   display: inline-block;
