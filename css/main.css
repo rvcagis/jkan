@@ -61,13 +61,13 @@ dataset {
   text-align: justify;
 }
 
-/* allows last line of categories to be justify aligned */
+/* allows last line of categories to be justify aligned 
 .homepage-categories:after,
 .theme-gallery:after {
   display: inline-block;
   width: 100%;
   content: '';
-}
+}*/
 
 .homepage-categories .thumbnail {
   display: inline-block;
