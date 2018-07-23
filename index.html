@@ -15,6 +15,7 @@ layout: default
   <center>
 {% for category in site.data.categories %}
   {% if category.featured == true %}
+    <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h3>
     {% capture logo_alt %}{{ category.name }}{% if category.logo_credit and category.logo_credit != empty %} logo by {{ category.logo_credit }}{% endif %}{% endcapture %}
     <a href="{{ site.baseurl }}/datasets/?category={{ category.name | slugify }}" class="thumbnail" title="{{ logo_alt }}">
       {% if category.logo and category.logo != empty %}
@@ -22,6 +23,7 @@ layout: default
       {% endif %}
       <h3><strong>{{ category.name }}</strong></h3>
     </a>
+    <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h3>
   {% endif %}
 {% endfor %}
   </center>
