@@ -75,11 +75,11 @@ dataset {
   text-align: center;
   border: none;
   padding: 0px;
-  margin: 200px;
+  margin: 100px;
 }
 
 .homepage-categories .thumbnail img {
-  height: 300px;
+  height: 150px;
 }
 
 .homepage-categories a {
