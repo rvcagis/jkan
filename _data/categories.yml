@@ -1,8 +1,9 @@
-- name: Web Maps & Services
-  logo: /img/categories/map-mapping.png
-  logo_credit: ''
-  featured: true
 - name: RVCA Open Datasets
   logo: /img/categories/map-landuse.png
   logo_credit: ''
   featured: true
+- name: Web Maps & Services
+  logo: /img/categories/map-mapping.png
+  logo_credit: ''
+  featured: true
+
