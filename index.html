@@ -12,7 +12,6 @@ layout: default
 </div>
 <div class="homepage-categories">
   <center>
-    <font size="24"><strong>|</strong></font>
 {% for category in site.data.categories %}
   {% if category.featured == true %}
     {% capture logo_alt %}{{ category.name }}{% if category.logo_credit and category.logo_credit != empty %} logo by {{ category.logo_credit }}{% endif %}{% endcapture %}
@@ -22,7 +21,6 @@ layout: default
       {% endif %}
       <h3><strong>{{ category.name }}</strong></h3>
     </a>
-    <font size="24"><strong>|</strong></font>
   {% endif %}
 {% endfor %}
   </center>
