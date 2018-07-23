@@ -5,13 +5,13 @@
 dataset {
   display: block;
   border-bottom: 1px #d6d6d6 solid;
-  padding-bottom: 0px;
+  padding-bottom: 20px;
 }
 
 .list-group-item-truncate {
   display: inline-block;
   line-height: 1;
-  width: 75%;
+  width: 25%;
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
@@ -71,12 +71,10 @@ dataset {
 
 .homepage-categories .thumbnail {
   display: inline-block;
-  justify-content: center;
-  align-items: center;
   min-width: 120px;
   text-align: center;
   border: none;
-  padding: 0px;
+  padding: 20px;
 }
 
 .homepage-categories .thumbnail img {
