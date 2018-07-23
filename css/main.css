@@ -71,10 +71,10 @@ dataset {
 
 .homepage-categories .thumbnail {
   display: inline-block;
-  min-width: 120px;
+  min-width: 10px;
   text-align: center;
   border: none;
-  padding: 20px;
+  padding: 200px;
 }
 
 .homepage-categories .thumbnail img {
