@@ -70,13 +70,13 @@ dataset {
 
 .homepage-categories .thumbnail {
   display: inline-block;
-  min-width: 20px;
+  min-width: 120px;
   text-align: center;
   border: none;
 }
 
 .homepage-categories .thumbnail img {
-  height: 60px;
+  height: 160px;
 }
 
 .homepage-categories a {
