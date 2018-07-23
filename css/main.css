@@ -61,17 +61,15 @@ dataset {
   text-align: justify;
 }
 
-/* allows last line of categories to be justify aligned
 .homepage-categories:after,
 .theme-gallery:after {
   display: inline-block;
   width: 100%;
   content: '';
-}*/
+}
 
 .homepage-categories .thumbnail {
   display: inline-block;
-  padding: 0px 0px 0px 50px;
   min-width: 120px;
   text-align: center;
   border: none;
