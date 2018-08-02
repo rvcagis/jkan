@@ -17,7 +17,7 @@ schema: default
 navigation:
   - title: Datasets
     url: /datasets/
-  - title: Organization
+  - title: Organizations
     url: /organizations/
 
 # Collections
