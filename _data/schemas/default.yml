@@ -53,7 +53,7 @@ resource_fields:
       - shp
       - xml
       - cad
-       -pdf
+      - pdf
 
 organization_fields:
   - field_name: title
