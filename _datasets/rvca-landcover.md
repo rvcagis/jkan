@@ -29,9 +29,10 @@ resources:
       https://rvcagis.maps.arcgis.com/apps/webappviewer/index.html?id=fee2c1a621224da5be37c8301ca96db6
     format: html
 license: 'https://gis.rvca.ca/RVCA Standard Data Licence.pdf'
+metadata: <strong>View Metadata...</strong>
 category:
   - RVCA Open Datasets
 maintainer: 'Dave Crossman, RVCA GIS Coordinator'
-maintainer_email: <a href="mailto:gis@rvca.ca">gis@rvca.ca</a>
+maintainer_email: <a href=
 lastUpdate: <strong>01-15-2018</strong>
 ---
