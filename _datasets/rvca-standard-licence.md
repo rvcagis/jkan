@@ -11,6 +11,6 @@ license: 'https://gis.rvca.ca/RVCA Standard Data Licence.pdf'
 category:
   - Licence Agreements
 maintainer: 'Dave Crossman, RVCA GIS Coordinator'
-maintainer_email: gis.rvca.ca
+maintainer_email: <a href="mailto:gis@rvca.ca">gis@rvca.ca</a>
 lastUpdate: <strong>01-13-2018</strong>
 ---
