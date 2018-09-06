@@ -16,6 +16,9 @@ dataset_fields:
     label: License
     form_template: form/license.html
     datajson: license
+  - field_name: metadata
+    label: 'Metadata'
+    datajson: metadata
   - field_name: category
     label: Category
     form_template: form/category.html
@@ -30,9 +33,6 @@ dataset_fields:
   - field_name: lastUpdate
     label: 'Last Update (mm-dd-yyyy)'
     datajson: lastUpdate
-  - field_name: metadata
-    label: 'Metadata'
-    datajson: metadata
 
 resource_fields:
   - field_name: name
