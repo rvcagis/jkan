@@ -1,6 +1,6 @@
 ---
 schema: default
-title: RVCA Open Licence
+title: RVCA Open Data Licence
 organization: RVCA
 notes: "Allows you to distribute, remix, tweak, and build upon our work, even commercially, as long as you credit RVCA for the original creation and licence new creations under identical terms. This is our most accommodating licence offered and allows for maximum dissemination and use of RVCA's licenced information. \r\n\r\nRequired: Attribution, Licence and Copyright Notice \r\nPermitted: Private Use, Commercial Use, Distribute, Modification, Sell, Derivatives\r\nForbidden: Sublicence and Hold Liable "
 resources:
