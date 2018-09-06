@@ -22,5 +22,4 @@ category:
 maintainer: 'Dave Crossman, RVCA GIS Coordinator'
 maintainer_email: gis.rvca.ca
 lastUpdate: <strong>01-13-2018</strong>
-metadata: View Metadata...
 ---
