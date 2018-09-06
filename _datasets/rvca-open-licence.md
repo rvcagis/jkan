@@ -17,7 +17,7 @@ resources:
     url: 'http://gis.rvca.ca/RVCA Open Data Licence.pdf'
     format: pdf
 license: 'https://gis.rvca.ca/RVCA Open Data Licence.pdf'
-metadata: View Metadata...
+metadata: ''
 category:
   - Licence Agreements
 maintainer: 'Dave Crossman, RVCA GIS Coordinator'
