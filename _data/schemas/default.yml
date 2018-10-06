@@ -57,6 +57,7 @@ resource_fields:
       - xml
       - cad
       - pdf
+       -xls
 
 organization_fields:
   - field_name: title
