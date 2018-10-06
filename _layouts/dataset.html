@@ -45,7 +45,8 @@ layout: default
       <ul>
         {% for resource in page.resources %}
         <li data-hook="resource-item" property='dcat:distribution' typeof='dcat:Distribution'>
-          <big><a href="{{ resource.url }}" onclick="return confirm('Please review the associated licence before proceeding. By downloading the data, you agree to the terms of the associated licence.')" property='dcat:accessURL'><span property="dct:title">{{ resource.name }}</span></a></big>
+          {% if resource.format == 'cad' or resource.format == 'shp'%}<big><a href="{{ resource.url }}" onclick="return confirm('Please review the associated licence before proceeding. By downloading the data, you agree to the terms of the associated licence.')" property='dcat:accessURL'><span property="dct:title">{{ resource.name }}</span></a></big>{% endif %}
+          {% if resource.format <> 'cad' and resource.format <> 'shp'%}<big><a href="{{ resource.url }}" property='dcat:accessURL'><span property="dct:title">{{ resource.name }}</span></a></big>{% endif %}
           {% if resource.format %}<span class="label label-default" property='dcat:mediaType'>{{ resource.format}}</span>{% endif %}
           <a href="#" class="show-resource-details" data-hook="show-resource-details">(Details)</a>
           {% if resource.description %}<div class="resource-description">{{ resource.description }}</div>{% endif %}
