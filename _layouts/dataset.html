@@ -59,7 +59,7 @@ layout: default
                     {% include {{ field.display_template }} field=field value=value %}
                   {% else %}
                     <tr>
-                      <th><h2>{{ field.label }}</h2></th>
+                      <th><big><strong>{{ field.label }}</big></strong></th>
                       <td>{{ value }}</td>
                     </tr>
                   {% endif %}
