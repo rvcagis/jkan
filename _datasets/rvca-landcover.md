@@ -24,17 +24,17 @@ resources:
     format: kml
   - name: RVCA Landcover CAD
     url: >-
-      https://rvca1.sharepoint.com/:u:/r/teams/gis-im/Shared%20Documents/Open%20Data/landCoverCAD.zip?csf=1&e=91czwZ
+      https://rvca1.sharepoint.com/:u:/r/teams/gis-im/Shared%20Documents/Open%20Data/landCoverCAD.zip?csf=1&e=FuP0E3
     format: cad
   - name: RVCA Landcover Web Map
     url: >-
       https://rvcagis.maps.arcgis.com/apps/webappviewer/index.html?id=fee2c1a621224da5be37c8301ca96db6
     format: html
 license: 'https://gis.rvca.ca/RVCA Standard Data Licence.pdf'
-metadata: <a href=
+metadata: <a href="https://gis.rvca.ca">View Metadata...</a>
 category:
   - RVCA Open Datasets
 maintainer: 'Dave Crossman, RVCA GIS Coordinator'
-maintainer_email: <a href=
+maintainer_email: <a href="mailto:gis@rvca.ca">gis@rvca.ca</a>
 lastUpdate: <strong>01-15-2018</strong>
 ---
