@@ -12,7 +12,8 @@ notes: >-
   Reporting.
 resources:
   - name: RVCA Landcover Shapefile
-    url: 'ftp://FTP_Data:!Data1@204.101.207.53/data/OpenData/landCoverSHP.zip'
+    url: >-
+      https://rvca1.sharepoint.com/:f:/r/teams/gis-im/Shared%20Documents/Open%20Data?csf=1&e=XZN29t/landCoverSHP.zip
     format: shp
   - name: RVCA Landcover Rest Endpoint
     url: 'https://gis.rvca.ca/arcgis/rest/services/RVCA_LandCover_Cache/MapServer'
@@ -22,17 +23,18 @@ resources:
       https://gis.rvca.ca/arcgis/rest/services/RVCA_LandCover_Cache/MapServer/generateKml
     format: kml
   - name: RVCA Landcover CAD
-    url: 'ftp://FTP_Data:!Data1@204.101.207.53/data/OpenData/landCoverCAD.zip'
+    url: >-
+      https://rvca1.sharepoint.com/:f:/r/teams/gis-im/Shared%20Documents/Open%20Data?csf=1&e=XZN29t/landCoverCAD.zip
     format: cad
   - name: RVCA Landcover Web Map
     url: >-
       https://rvcagis.maps.arcgis.com/apps/webappviewer/index.html?id=fee2c1a621224da5be37c8301ca96db6
     format: html
 license: 'https://gis.rvca.ca/RVCA Standard Data Licence.pdf'
-metadata: <a href="https://gis.rvca.ca/data.html"><big><strong>View Metadata...</big></strong></a>
+metadata: <a href=
 category:
   - RVCA Open Datasets
 maintainer: 'Dave Crossman, RVCA GIS Coordinator'
-maintainer_email: <a href="mailto:gis@rvca.ca">gis@rvca.ca</a>
+maintainer_email: <a href=
 lastUpdate: <strong>01-15-2018</strong>
 ---
