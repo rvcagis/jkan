@@ -13,7 +13,7 @@ notes: >-
 resources:
   - name: RVCA Landcover Shapefile
     url: >-
-      https://rvca1.sharepoint.com/:f:/r/teams/gis-im/Shared%20Documents/Open%20Data?csf=1&e=XZN29t/landCoverSHP.zip
+      https://rvca1.sharepoint.com/:u:/r/teams/gis-im/Shared%20Documents/Open%20Data/landCoverSHP.zip?csf=1&e=MuxvLz
     format: shp
   - name: RVCA Landcover Rest Endpoint
     url: 'https://gis.rvca.ca/arcgis/rest/services/RVCA_LandCover_Cache/MapServer'
@@ -24,7 +24,7 @@ resources:
     format: kml
   - name: RVCA Landcover CAD
     url: >-
-      https://rvca1.sharepoint.com/:f:/r/teams/gis-im/Shared%20Documents/Open%20Data?csf=1&e=XZN29t/landCoverCAD.zip
+      https://rvca1.sharepoint.com/:u:/r/teams/gis-im/Shared%20Documents/Open%20Data/landCoverCAD.zip?csf=1&e=91czwZ
     format: cad
   - name: RVCA Landcover Web Map
     url: >-
