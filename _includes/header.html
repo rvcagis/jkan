@@ -17,7 +17,7 @@
           {% if page.url contains link.url %}
             <li class="active"><a href="{{ site.baseurl }}{{ link.url }}?organization=rvca">{{ link.title }} <span class="sr-only">(current)</span></a></li>
           {% else %}
-            <li><a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
+            <li><a href="{{ site.baseurl }}{{ link.url }}?organization=rvca">{{ link.title }}</a></li>
           {% endif %}
         {% endfor %}
         </ul></big>
