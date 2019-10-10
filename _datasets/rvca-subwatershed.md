@@ -29,6 +29,6 @@ metadata: <big><strong><a href="https://gis.rvca.ca/data.html">View Metadata...<
 category:
   - RVCA Open Datasets
 maintainer: 'Dave Crossman, RVCA GIS Coordinator'
-maintainer_email:<a href="mailto:gis@rvca.ca">gis@rvca.ca</a>
+maintainer_email: <a href="mailto:gis@rvca.ca">gis@rvca.ca</a>
 lastUpdate: <strong>10-10-2019</strong>
 ---
