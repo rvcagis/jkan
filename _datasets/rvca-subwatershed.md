@@ -25,10 +25,10 @@ resources:
     url: 'https://gis.rvca.ca/openData/RVCA_SubwatershedDWG.zip'
     format: cad
 license: 'https://gis.rvca.ca/openData/RVCA Open Data Licence.pdf'
-metadata: <big><strong><a href=
+metadata: <big><strong><a href="https://gis.rvca.ca/data.html">View Metadata...</a></strong></big>
 category:
   - RVCA Open Datasets
 maintainer: 'Dave Crossman, RVCA GIS Coordinator'
-maintainer_email: <a href=
+maintainer_email:<a href="mailto:gis@rvca.ca">gis@rvca.ca</a>
 lastUpdate: <strong>10-10-2019</strong>
 ---
