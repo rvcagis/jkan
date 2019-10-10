@@ -7,11 +7,11 @@ notes: >-
   represent the largest-scale scientific reporting area within the RVCA
   watershed. They can be grouped up into subwatersheds (Tay River, Upper Rideau
   Lakes, Middle Rideau, Lower Rideau, Kemptville Creek, Jock River - <i>see RVCA
-  Catchments)</i>). This dataset is used extensively for Subwatershed &
+  Subwatersheds)</i>). This dataset is used extensively for Subwatershed &
   Catchment Reporting.
 resources:
   - name: RVCA Catchments Shapefile
-    url: 'https://gis.rvca.ca/openData/RVCA_SubwatershedSHP.zip'
+    url: 'https://gis.rvca.ca/openData/RVCA_CatchmentSHP.zip'
     format: shp
   - name: RVCA Catchments Rest Endpoint
     url: ' https://gis.rvca.ca/arcgis/rest/services/RVCA_Hydrology_Service/MapServer/5'
@@ -21,7 +21,7 @@ resources:
       https://gis.rvca.ca/arcgis/rest/services/RVCA_Hydrology_Service/MapServer/generateKml
     format: kml
   - name: RVCA Catchments CAD-DWG
-    url: 'https://gis.rvca.ca/openData/RVCA_SubwatershedDWG.zip'
+    url: 'https://gis.rvca.ca/openData/RVCA_CatchmentDWG.zip'
     format: cad
 license: 'https://gis.rvca.ca/openData/RVCA Open Data Licence.pdf'
 metadata: >-
