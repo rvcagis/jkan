@@ -4,8 +4,9 @@ title: RVCA CA Lands (with public access)
 organization: RVCA
 notes: >-
   Last Update (mm-dd-yyyy): <strong>10-10-2019<br><br>RVCA CA Lands (with public
-  access)</strong> represent the RVCA Conservation Areas with public access, including Baxter, Chapman Mills, Foley Mountain, W.A Taylor etc. For
-  further information on individual Conservation Areas, please visit <a
+  access)</strong> represent the RVCA Conservation Areas with public access,
+  including Baxter, Chapman Mills, Foley Mountain, W.A Taylor etc. For further
+  information on individual Conservation Areas, please visit <a
   href="https://www.rvca.ca/conservation-areas">rvca.ca/conservation-areas</a>.
 resources:
   - name: RVCA Conservation Areas Shapefile
@@ -27,7 +28,7 @@ resources:
     format: html
 license: 'https://gis.rvca.ca/openData/RVCA Open Data Licence.pdf'
 metadata: >-
-  <big><strong><a href="https://gis.rvca.ca/data.html">View
+  <big><strong><a href="https://gis.rvca.ca/data.html">View  
   Metadata...</a></strong></big>
 category:
   - RVCA Open Datasets
