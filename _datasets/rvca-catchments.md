@@ -7,7 +7,7 @@ notes: >-
   represent the largest-scale scientific reporting area within the RVCA
   watershed. They can be grouped up into subwatersheds (Tay River, Upper Rideau
   Lakes, Middle Rideau, Lower Rideau, Kemptville Creek, Jock River - <i>see RVCA
-  Subwatersheds)</i>). This dataset is used extensively for Subwatershed &
+  Subwatersheds</i>). This dataset is used extensively for Subwatershed &
   Catchment Reporting.
 resources:
   - name: RVCA Catchments Shapefile
