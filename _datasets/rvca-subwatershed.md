@@ -3,7 +3,7 @@ schema: default
 title: RVCA Subwatersheds
 organization: RVCA
 notes: >-
-
+  Last Update (mm-dd-yyyy): <strong>10-10-2019<br><br>RVCA Subwatersheds</strong> represent the 6 RVCA scientific subwatersheds (Tay River, Upper Rideau Lakes, Middle Rideau, Lower Rideau, Kemptville Creek, Jock River). This dataset is used extensively for Subwatershed Reporting. The RVCA Subwatersheds are broken down further into catchments for reporting purposes <i>(see RVCA Catchments)</i>
 resources:
   - name: RVCA Subwatersheds Shapefile
     url: >-
