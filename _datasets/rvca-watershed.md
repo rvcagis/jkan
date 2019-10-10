@@ -2,7 +2,7 @@
 schema: default
 title: RVCA Watershed
 organization: RVCA
-notes: "Last Update (mm-dd-yyyy): <strong>10-10-2019<br><br>RVCA Watershed</strong> represents the administrative/regulatory extent of Rideau Valley Conservation Authority (RVCA). RVCA is broken down into 6 subwatersheds (Tay River, Upper Rideau Lakes, Middle Rideau, Lower Rideau, Kemptville Creek, Jock River - <i>see RVCA Subwatersheds</i>) and then again into catchments (<i>see RVCA Catchments</i>). This dataset is used to establish our regulatory extent relative to adjacent Conservation Authorities.\r\n  Catchment Reporting."
+notes: "Last Update (mm-dd-yyyy): <strong>10-10-2019<br><br>RVCA Watershed</strong> represents the administrative/regulatory extent of Rideau Valley Conservation Authority (RVCA). RVCA is broken down into 6 subwatersheds (Tay River, Upper Rideau Lakes, Middle Rideau, Lower Rideau, Kemptville Creek, Jock River - <i>see RVCA Subwatersheds</i>) and then again into catchments (<i>see RVCA Catchments</i>). This dataset is used to establish our regulatory extent relative to adjacent Conservation Authorities."
 resources:
   - name: RVCA Watershed Shapefile
     url: 'https://gis.rvca.ca/openData/RVCA_WatershedSHP.zip'
