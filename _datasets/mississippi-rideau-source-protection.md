@@ -18,7 +18,6 @@ resources:
     url: 'http://www.mrsourcewater.ca/en/library/maps/29-clickable-map-tool'
     format: html
 license: ''
-metadata: ''
 category:
   - Web Maps & Services
 maintainer: 'Dave Crossman, RVCA GIS Coordinator'
