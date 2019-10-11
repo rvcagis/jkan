@@ -1,7 +1,7 @@
 export default (data) => (
 `<dataset>
-  <h3><a href="${data.url}">${data.title}</a></h3>
-  <h4>${data.lastUpdate}</h4>
+  <h4><a href="${data.url}">${data.title}</a></h4>
+  <h5>${data.lastUpdate}</h5>
   ${data.notes || ''}
 </dataset>`
 )
