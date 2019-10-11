@@ -3,7 +3,7 @@ schema: default
 title: RVCA ArcGIS Online
 organization: RVCA
 notes: >-
-  <strong>Visit us on ArcGIS Online</strong><br><br>Explore RVCA data and
+  <strong>Visit us on ArcGIS Online</strong><br>Explore RVCA data and
   access ready-to-use maps, layers and apps.
 resources:
   - name: RVCA ArcGIS Online
