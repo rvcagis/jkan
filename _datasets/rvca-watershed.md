@@ -20,7 +20,7 @@ resources:
     format: cad
 license: 'https://gis.rvca.ca/openData/RVCA Open Data Licence.pdf'
 metadata: >-
-  <strong><a href="https://gis.rvca.ca/data.html">View    
+  <big><strong><a href="https://gis.rvca.ca/data.html">View    
   Metadata...</a></strong></big>
 category:
   - RVCA Open Datasets
