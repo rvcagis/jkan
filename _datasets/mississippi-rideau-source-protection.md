@@ -3,7 +3,7 @@ schema: default
 title: Mississippi-Rideau Source Protection
 organization: RVCA
 notes: >-
-  <strong>Drinking Water Source Protection</strong>(DWSP)<br>Source water is the
+  <strong>Drinking Water Source Protection</strong> (DWSP)<br>Source water is the
   raw water that we take from lakes, rivers or underground aquifers to supply
   people with drinking water. Rideau Valley Conservation Authority (RVCA) and
   Mississippi Valley Conservation Authority (MVCA) are partners comprising the
