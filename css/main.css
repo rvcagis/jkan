@@ -10,7 +10,7 @@ dataset {
 
 .list-group-item-truncate {
   display: inline-block;
-  line-height: 1.20;
+  line-height: 1.25;
   width: 75%;
   overflow: hidden;
   white-space: nowrap;
@@ -18,7 +18,7 @@ dataset {
 }
 
 .resource-description {
-  font-size: 300%;
+  font-size: 90%;
 }
 
 .select2 {
