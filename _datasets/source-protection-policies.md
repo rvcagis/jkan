@@ -7,7 +7,7 @@ notes: >-
   Policies</strong> represents a summary of Drinking Water Source Protection
   (DWSP) Policies by Zone. The Zones include Well Head Protection Areas (WHPAs)
   & Intake Protection Zones (IPZs) associated with Municipality drinking water.
-  This dataset is part of Drinking Water Source Protection (DWSP). Rideau Valley
+  Rideau Valley
   Conservation Authority (RVCA) and Mississippi Valley Conservation Authority
   (MVCA) are partners comprising the Mississippi-Rideau Source Protection Region
   <a href="https://www.mrsourcewater.ca/en/">mrsourcewater.ca</a>.
