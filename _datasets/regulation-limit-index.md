@@ -12,7 +12,7 @@ notes: >-
   dataset.
 resources:
   - name: Regulation Limit Index Shapefile
-    url: 'https://gis.rvca.ca/openData/regulationLimit_ApprovedSHP.zip'
+    url: 'https://gis.rvca.ca/openData/regulationIndexSHP.zip'
     format: shp
   - name: Regulation Limit Index Rest Endpoint
     url: >-
@@ -23,7 +23,7 @@ resources:
       https://gis.rvca.ca/arcgis/rest/services/RVCA_Hazards_publicService/MapServer/generateKml
     format: kml
   - name: Regulation Limit Index CAD-DWG
-    url: 'https://gis.rvca.ca/openData/regulationLimit_ApprovedDWG.zip'
+    url: 'https://gis.rvca.ca/openData/regulationIndexDWG.zip'
     format: cad
 license: 'https://gis.rvca.ca/openData/RVCA Standard Data Licence.pdf'
 metadata: >-
