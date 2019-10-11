@@ -2,7 +2,7 @@
 schema: default
 title: RVCA CA Trails
 organization: RVCA
-notes: "Last Update (mm-dd-yyyy): <strong>10-10-2019<br><br>RVCA CA Trails</strong> represent the publicly accessible RVCA Conservation Areas Trails. Please see the associated <i>CA Lands (with public access)</i> dataset.\r\nFor further information on individual Conservation Areas, please visit <a href=\"https://www.rvca.ca/conservation-areas\">rvca.ca/conservation-areas</a>."
+notes: "Last Update (mm-dd-yyyy): <strong>10-10-2019<br><br>RVCA CA Trails</strong> represent the publicly accessible RVCA Conservation Areas Trails. Please see the associated <i>RVCA CA Lands (with public access)</i> dataset.\r\nFor further information on individual Conservation Areas, please visit <a href=\"https://www.rvca.ca/conservation-areas\">rvca.ca/conservation-areas</a>."
 resources:
   - name: RVCA CA Trails Shapefile
     url: 'https://gis.rvca.ca/openData/RVCA_CATrailsSHP.zip'
