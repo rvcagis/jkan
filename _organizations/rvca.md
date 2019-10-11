@@ -1,6 +1,6 @@
 ---
 schema: default
-title: <strong>RVCA</strong>
+title: RVCA
 description: >-
   <strong>Rideau Valley Conservation Authority</strong> (RVCA) is one of
   Ontario's 36  Conservation Authorities. For over 50 years we have actively
