@@ -22,10 +22,6 @@ resources:
     url: >-
       https://gis.rvca.ca/arcgis/rest/services/RVCA_LandCover_Cache/MapServer/generateKml
     format: kml
-  - name: RVCA Landcover CAD-DWG
-    url: >-
-      https://gis.rvca.ca/openData/RVCA_LandCoverDWG.zip
-    format: cad
   - name: RVCA Landcover Web Map
     url: >-
       https://rvcagis.maps.arcgis.com/apps/webappviewer/index.html?id=fee2c1a621224da5be37c8301ca96db6
