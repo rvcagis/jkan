@@ -20,9 +20,6 @@ resources:
     url: >-
       https://gis.rvca.ca/arcgis/rest/services/RVCA_NaturalFeatures_Service/MapServer/generateKml
     format: kml
-  - name: RVCA Subwatersheds CAD-DWG
-    url: 'https://gis.rvca.ca/openData/RVCA_WaterbodyDWG.zip'
-    format: cad
 license: 'https://gis.rvca.ca/openData/RVCA Standard Data Licence.pdf'
 metadata: >-
   <big><strong><a href="https://metadata.cacore.ca/Public/Details/RVCA/id=839">View  
