@@ -16,7 +16,7 @@ resources:
       https://gis.rvca.ca/openData/RVCA_LandCoverSHP.zip
     format: shp
   - name: RVCA Landcover Rest Endpoint
-    url: 'https://gis.rvca.ca/arcgis/rest/services/RVCA_LandCover_Cache/MapServer'
+    url: 'https://gis.rvca.ca/arcgis/rest/services/RVCA_LandCover_Cache/MapServer/0'
     format: api
   - name: RVCA Landcover Generate Kml
     url: >-
