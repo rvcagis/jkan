@@ -14,7 +14,7 @@ resources:
     format: shp
   - name: RVCA Conservation Areas Rest Endpoint
     url: >-
-      https://gis.rvca.ca/arcgis/rest/services/RVCA_ConservationArea_Service/MapServer
+      https://gis.rvca.ca/arcgis/rest/services/RVCA_ConservationArea_Service/MapServer/8
     format: api
   - name: RVCA Conservation Areas Generate Kml
     url: >-
