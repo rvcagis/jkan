@@ -4,7 +4,7 @@ title: RVCA Public GeoPortal
 organization: RVCA
 notes: >-
   <i>The <strong>RVCA GeoPortal</strong> is your one-stop-shop for everything
-  RVCA GIS.</i><br><br>The RVCA GeoPortal has multiple tools & themes to help
+  RVCA GIS.</i><br><br>The RVCA GeoPortal is an interactive map with multiple tools & themes to help
   you find data and locations. The tools include Address, Lot/Con, Water Feature
   search tools and the themes include Source Protection, Generic Regulations,
   Stream Gauges, Conservation Areas and Elevation.
