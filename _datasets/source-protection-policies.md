@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Source Protection Policies
+title: Source Protection Policy Areas
 organization: RVCA
 notes: >-
   Last Update (mm-dd-yyyy): <strong>10-10-2019<br><br>Source Protection
@@ -12,20 +12,20 @@ notes: >-
   Source Protection Region <a
   href="https://www.mrsourcewater.ca/en/">mrsourcewater.ca</a>.
 resources:
-  - name: DWSP Policy Shapefile
+  - name: DWSP Policy Area Shapefile
     url: 'https://gis.rvca.ca/openData/DWSP_PoliciesSHP.zip'
     format: shp
-  - name: DWSP Policy Rest Endpoint
+  - name: DWSP Policy Area Rest Endpoint
     url: 'https://gis.rvca.ca/arcgis/rest/services/RVCA_SWP_Service/MapServer/0'
     format: api
-  - name: DWSP Policy Generate Kml
+  - name: DWSP Policy Area Generate Kml
     url: >-
       https://gis.rvca.ca/arcgis/rest/services/RVCA_SWP_Service/MapServer/generateKml
     format: kml
-  - name: DWSP Policy CAD-DWG
+  - name: DWSP Policy Area CAD-DWG
     url: 'https://gis.rvca.ca/openData/DWSP_PoliciesDWG.zip'
     format: cad
-  - name: DWSP Policy Web Map
+  - name: DWSP Policy Area Web Map
     url: 'http://www.mrsourcewater.ca/en/library/maps/29-clickable-map-tool'
     format: html
 license: 'https://gis.rvca.ca/openData/RVCA Standard Data Licence.pdf'
