@@ -13,7 +13,7 @@ resources:
   - name: RVCA GIS REST endpoint
     url: 'https://gis.rvca.ca/arcgis/rest/services'
     format: api
-license: ''
+license: 'https://gis.rvca.ca/termsUse.htm'
 category:
   - 'Web Maps & Services'
 maintainer: 'Dave Crossman, RVCA GIS Coordinator'
