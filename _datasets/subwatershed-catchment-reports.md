@@ -15,7 +15,7 @@ resources:
   - name: Watershed Reporting Story Map
     url: 'https://rvcagis.maps.arcgis.com/apps/MapJournal/index.html?appid=74f6809922094a038ebac5ff27dbbfd1'
     format: html
-license: ''
+license: 'https://gis.rvca.ca/termsUse.htm'
 category:
   - 'Web Maps & Services'
 maintainer: 'Dave Crossman, RVCA GIS Coordinator'
