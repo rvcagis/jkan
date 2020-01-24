@@ -14,6 +14,9 @@ resources:
   - name: Regulated Wetlands Shapefile
     url: 'https://gis.rvca.ca/openData/RVCA_regulatedWetlandSHP.zip'
     format: shp
+  - name: Regulated Wetlands (Allowance) Shapefile
+    url: 'https://gis.rvca.ca/openData/regulatedWetland_wAllowanceSHP.zip'
+    format: shp
   - name: Regulated Wetlands Rest Endpoint
     url: >-
       https://gis.rvca.ca/arcgis/rest/services/RVCA_Hazards_publicService/MapServer/6
@@ -24,6 +27,9 @@ resources:
     format: kml
   - name: Regulated Wetlands CAD-DWG
     url: 'https://gis.rvca.ca/openData/RVCA_regulatedWetlandDWG.zip'
+    format: cad
+  - name: Regulated Wetlands (Allowance) CAD-DWG
+    url: 'https://gis.rvca.ca/openData/regulatedWetland_wAllowanceDWG.zip'
     format: cad
 license: 'https://gis.rvca.ca/openData/RVCA Standard Data Licence.pdf'
 metadata: >-
