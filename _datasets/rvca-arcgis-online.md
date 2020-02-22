@@ -13,7 +13,7 @@ resources:
     url: >-
       http://rvcagis.maps.arcgis.com/home/search.html?q=&t=content&focus=layers&restrict=true&q_orig=&sortField=numviews&sortOrder=desc
     format: html
-license: ''
+license: 'https://gis.rvca.ca/termsUse.htm'
 category:
   - 'Web Maps & Services'
 maintainer: 'Dave Crossman, RVCA GIS Coordinator'
