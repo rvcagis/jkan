@@ -19,7 +19,7 @@ resources:
     format: shp
   - name: Regulated Wetlands Rest Endpoint
     url: >-
-      https://gis.rvca.ca/arcgis/rest/services/RVCA_Hazards_publicService/MapServer/6
+      https://gis.rvca.ca/arcgis/rest/services/RVCA_Hazards_publicService/MapServer/7
     format: api
   - name: Regulated Wetlands Generate Kml
     url: >-
