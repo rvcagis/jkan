@@ -16,7 +16,7 @@ resources:
     format: shp
   - name: Regulation Limit Rest Endpoint
     url: >-
-      https://gis.rvca.ca/arcgis/rest/services/RVCA_Hazards_publicService/MapServer/5
+      https://gis.rvca.ca/arcgis/rest/services/RVCA_Hazards_publicService/MapServer/6
     format: api
   - name: Regulation Limit Generate Kml
     url: >-
