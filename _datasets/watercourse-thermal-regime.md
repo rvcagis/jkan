@@ -3,20 +3,33 @@ schema: default
 title: Watercourse Thermal Regime
 organization: RVCA
 notes: >-
-  Many factors can influence fluctuations in stream temperature, including
+  Last Update (mm-dd-yyyy): <strong>06-30-2020<br><br>Watercourse Thermal Regime</strong> is represented as a sampling point. Many factors 
+  can influence fluctuations in stream temperature, including
   springs, tributaries, precipitation runoff, discharge pipes and stream shading
   from riparian vegetation. Water temperature is used along with the maximum air
   temperature (using the Stoneman and Jones method) to classify a watercourse as
   either warm water, cool water or cold water.
 resources:
-  - name: Watercourse Thermal Regime Shapefile
-    url: 'https://gis.rvca.ca'
+  - name: Thermal Regime Shapefile
+    url: 'https://gis.rvca.ca/openData/RVCA_thermalSitesSHP.zip'
     format: shp
+  - name: Thermal Regime Rest Endpoint
+    url: 'https://gis.rvca.ca/arcgis/rest/services/RVCA_WaterQualityMonitoring_Service/MapServer/6'
+    format: api
+  - name: Thermal Regime Generate Kml
+    url: >-
+      https://gis.rvca.ca/arcgis/rest/services/RVCA_WaterQualityMonitoring_Service/MapServer/generateKml
+    format: kml
+  - name: Thermal Regime CAD-DWG
+    url: 'https://gis.rvca.ca/openData/RVCA_thermalSitesDWG.zip'
+    format: cad
 license: 'https://gis.rvca.ca/openData/RVCA Standard Data Licence.pdf'
-metadata: 'https://metadata.cacore.ca/Public/Details/RVCA/id=1009'
+metadata: >-
+  <big><strong><a href="https://metadata.cacore.ca/Public/Details/RVCA/id=1009">View
+  Metadata...</a></strong></big>
 category:
   - RVCA Open Datasets
-maintainer: ''
-maintainer_email: ''
-lastUpdate: ''
+maintainer: 'Dave Crossman, RVCA GIS Coordinator'
+maintainer_email: '<a href="mailto:gis@rvca.ca">gis@rvca.ca</a>'
+lastUpdate: <strong>06-30-2020</strong>
 ---
