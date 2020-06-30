@@ -20,7 +20,7 @@ resources:
     url: >-
       https://gis.rvca.ca/arcgis/rest/services/RVCA_NaturalFeatures_Service/MapServer/generateKml
     format: kml
-license: 'https://gis.rvca.ca/openData/RVCA Standard Data Licence.pdf'
+license: 'https://gis.rvca.ca/openData/RVCA Open Data Licence.pdf'
 metadata: >-
   <big><strong><a href="https://metadata.cacore.ca/Public/Details/RVCA/id=839">View  
   Metadata...</a></strong></big>
