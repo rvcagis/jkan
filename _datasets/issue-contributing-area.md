@@ -25,7 +25,7 @@ resources:
     format: cad
 license: 'https://gis.rvca.ca/openData/RVCA Standard Data Licence.pdf'
 metadata: >-
-  <big><strong><a href="https://metadata.cacore.ca/Public/Details/RVCA/id=852">View
+  <big><strong><a href="https://metadata.cacore.ca/Public/Details/RVCA/id=1008">View
   Metadata...</a></strong></big>
 category:
   - RVCA Open Datasets
