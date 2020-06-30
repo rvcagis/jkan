@@ -11,7 +11,7 @@ notes: >-
   <a href="https://www.mrsourcewater.ca/en/">mrsourcewater.ca</a>.
 resources:
   - name: Issue Contributing Area Shapefile
-    url: 'https://gis.rvca.ca/openData/DWSP_issueZones.zip'
+    url: 'https://gis.rvca.ca/openData/DWSP_issueZonesSHP.zip'
     format: shp
   - name: Issue Contributing Area Rest Endpoint
     url: 'https://gis.rvca.ca/arcgis/rest/services/RVCA_SWP_Service/MapServer/1'
