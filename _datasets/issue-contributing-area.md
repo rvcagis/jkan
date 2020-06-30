@@ -3,7 +3,7 @@ schema: default
 title: Issue Contributing Areas
 organization: RVCA
 notes: >-
-  Last Update (mm-dd-yyyy): <strong>10-10-2019<br><br>A chemical or pathogen contaminant detected 
+  Last Update (mm-dd-yyyy): <strong>06-30-2020<br><br>Issue Contributiong Areas:</strong> A chemical or pathogen contaminant detected 
   at a well or surface water intake that, at current or predicted future concentrations, may result 
   in a deterioration of source water quality. This dataset is part of Drinking Water Source Protection (DWSP). Rideau Valley
   Conservation Authority (RVCA) and Mississippi Valley Conservation Authority
@@ -31,5 +31,5 @@ category:
   - RVCA Open Datasets
 maintainer: 'Dave Crossman, RVCA GIS Coordinator'
 maintainer_email: '<a href="mailto:gis@rvca.ca">gis@rvca.ca</a>'
-lastUpdate: <strong>30-06-2019</strong>
+lastUpdate: <strong>06-30-2020</strong>
 ---
