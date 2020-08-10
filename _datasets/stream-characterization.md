@@ -15,6 +15,9 @@ resources:
   - name: Stream Characterization CAD-DWG
     url: 'https://gis.rvca.ca/openData/streamCharacterizationDWG.zip'
     format: cad
+  - name: Stream Characterization XLS
+    url: 'https://gis.rvca.ca/openData/streamCharacterizationSHP.zip'
+    format: xls
 license: 'https://gis.rvca.ca/openData/RVCA Standard Data Licence.pdf'
 metadata: >-
   <big><strong><a href="https://metadata.cacore.ca/Public/Details/RVCA/id=861">View  
