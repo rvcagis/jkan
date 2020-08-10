@@ -3,7 +3,7 @@ schema: default
 title: RVCA Fish Communities
 organization: RVCA
 notes: >-
-  Last Update (mm-dd-yyyy): <strong>8-10-2020<br><br>Fish Communities</strong> is represented as a sampling point with associated metrics/species as an excel spreadsheet. RVCA is part of the Ontario Benthos Biomonitoring Network (OBBN) and RVCA staff follow a provincial protocol for sampling in streams, lakes, and wetlands. A total of three replicates of samples are collected at each of the site locations and are brought back to the RVCA lab for identification. Once identified the samples are run through various indices for Watershed Reporting. Please visit <a
+  Last Update (mm-dd-yyyy): <strong>8-10-2020<br><br>Fish Communities</strong> is represented as a river or stream sampling point with associated metrics/species as an excel spreadsheet. The dataset includes RVCA-staff sampled sites and exists throughout all 6 RVCA subwatersheds. The results feed into RVCA's Watershed Monitoring Program, Fisheries Assessments and other aquatic monitoring activities including Fish Habitat Enhancement projects. The data is also shared with the Province to aid in Ontario Fisheries Management. Sampling methods vary and include Netting, Seining, Electrofishing. Data includes species names, number of individuals found, total weights etc. Please visit <a
   href="https://watersheds.rvca.ca">watersheds.rvca.ca</a> for further info.
 resources:
   - name: Fish Communities Shapefile
