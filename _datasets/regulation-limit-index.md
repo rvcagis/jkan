@@ -3,7 +3,7 @@ schema: default
 title: Regulation Limit Index
 organization: RVCA
 notes: >-
-  Last Update (mm-dd-yyyy): <strong>10-10-2019<br><br>Regulation Limit
+  Last Update (mm-dd-yyyy): <strong>8-10-2020<br><br>Regulation Limit
   Index</strong> represents the 1km<sup>2</sup> polygon map index for Section 28
   - Development, Interference with Wetlands and Alterations to Shorelines and
   Watercourses Regulation (Ontario Regulation 174/06). Each index has an
@@ -33,5 +33,5 @@ category:
   - RVCA Open Datasets
 maintainer: 'Dave Crossman, RVCA GIS Coordinator'
 maintainer_email: '<a href="mailto:gis@rvca.ca">gis@rvca.ca</a>'
-lastUpdate: <strong>10-10-2019</strong>
+lastUpdate: <strong>8-10-2020</strong>
 ---
