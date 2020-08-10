@@ -2,9 +2,10 @@
 schema: default
 title: Benthic (OBBN) Monitoring
 organization: RVCA
-notes: add...
+notes: >-
+  Last Update (mm-dd-yyyy): <strong>8-10-2020<br><br>Benthic (OBBN) Monitoring</strong>
 resources:
-- name: Benthic (OBBN) Shapefile
+  - name: Benthic (OBBN) Shapefile
     url: 'https://gis.rvca.ca/openData/RVCA_benthicSiteSHP.zip'
     format: shp
   - name: Benthic (OBBN) Rest Endpoint
@@ -18,7 +19,7 @@ resources:
   - name: Benthic (OBBN) CAD-DWG
     url: 'https://gis.rvca.ca/openData/RVCA_benthicSiteDWG.zip'
     format: cad
-   - name: Benthic (OBBN) XLS
+  - name: Benthic (OBBN) XLS
     url: 'https://gis.rvca.ca/openData/RVCA_benthicSiteSHP.zip'
     format: xls
 license: 'https://gis.rvca.ca/openData/RVCA Standard Data Licence.pdf'
