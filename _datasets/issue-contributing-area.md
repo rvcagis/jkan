@@ -5,7 +5,7 @@ organization: RVCA
 notes: >-
   Last Update (mm-dd-yyyy): <strong>06-30-2020<br><br>Issue Contributiong Areas</strong> A chemical or pathogen contaminant detected 
   at a well or surface water intake that, at current or predicted future concentrations, may result 
-  in a deterioration of source water quality. This dataset is part of Drinking Water Source Protection (DWSP). Rideau Valley
+  in a deterioration of source water quality. Rideau Valley
   Conservation Authority (RVCA) and Mississippi Valley Conservation Authority
   (MVCA) are partners comprising the Mississippi-Rideau Source Protection Region
   <a href="https://www.mrsourcewater.ca/en/">mrsourcewater.ca</a>.
