@@ -37,5 +37,5 @@ category:
   - RVCA Open Datasets
 maintainer: 'Dave Crossman, RVCA GIS Coordinator'
 maintainer_email: '<a href="mailto:gis@rvca.ca">gis@rvca.ca</a>'
-lastUpdate: <strong>10-10-2019</strong>
+lastUpdate: <strong>8-10-2020</strong>
 ---
