@@ -4,7 +4,7 @@ title: Stream Characterization
 organization: RVCA
 notes: >-
   Last Update (mm-dd-yyyy): <strong>10-10-2019<br><br>Stream
-  Characterization</strong> represents a watercourse centerline summarizing the
+  Characterization</strong> is represented by a watercourse centerline summarizing the
   Ontario Stream Assessment Protocol (OSAP) monitoring protocol results. It is
   implemented by City Stream Watch Program participants and RVCA staff. This
   dataset is used extensively for Subwatershed & Catchment Reporting.
