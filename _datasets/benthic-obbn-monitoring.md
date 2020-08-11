@@ -4,7 +4,7 @@ title: Benthic (OBBN) Monitoring
 organization: RVCA
 notes: >-
   Last Update (mm-dd-yyyy): <strong>8-10-2020<br><br>Benthic (OBBN) Monitoring</strong> is represented as a sampling point with associated metrics/species as an excel spreadsheet. RVCA is part of the Ontario Benthos Biomonitoring Network (OBBN) and RVCA staff follow a provincial protocol for sampling in streams, lakes, and wetlands. A total of three replicates of samples are collected at each site and then identified and run through various indices for Watershed Reporting. Please visit <a
-  href="https://watersheds.rvca.ca">watersheds.rvca.ca</a> for further info.
+  href="https://watersheds.rvca.ca">watersheds.rvca.ca</a>.
 resources:
   - name: Benthic (OBBN) Shapefile
     url: 'https://gis.rvca.ca/openData/RVCA_benthicSiteSHP.zip'
