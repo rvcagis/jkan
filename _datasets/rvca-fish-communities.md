@@ -3,8 +3,7 @@ schema: default
 title: RVCA Fish Communities
 organization: RVCA
 notes: >-
-  Last Update (mm-dd-yyyy): <strong>8-10-2020<br><br>Fish Communities</strong> is represented as a river or stream sampling point with associated metrics/species as an excel spreadsheet. The dataset includes RVCA-staff sampled sites and the results feed into RVCA's Watershed Monitoring Program, Fisheries Assessments and other activities including Fish Habitat Enhancement projects. The data is also shared with the Province to aid in Fisheries Management. Please visit <a
-  href="https://watersheds.rvca.ca">watersheds.rvca.ca</a>.
+  Last Update (mm-dd-yyyy): <strong>8-10-2020<br><br>Fish Communities</strong> is represented as a river or stream sampling point with associated metrics/species as an excel spreadsheet. The dataset includes RVCA-staff sampled sites and the results feed into RVCA's Watershed Monitoring Program, Fisheries Assessments and other activities including Fish Habitat Enhancement projects. The data is also shared with the Province to aid in Fisheries Management.
 resources:
   - name: Fish Communities Shapefile
     url: 'https://gis.rvca.ca/openData/RVCA_fishCommunitySHP.zip'
