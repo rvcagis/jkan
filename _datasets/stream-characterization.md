@@ -5,9 +5,10 @@ organization: RVCA
 notes: >-
   Last Update (mm-dd-yyyy): <strong>8-10-2020<br><br>Stream
   Characterization</strong> is represented by a watercourse centerline summarizing the
-  Ontario Stream Assessment Protocol (OSAP) monitoring protocol results. The dataset also includes an associated excel spreadsheet showing the individual chacterizations. It is
+  Ontario Stream Assessment Protocol (OSAP) monitoring protocol results. The dataset also includes an associated excel spreadsheet with the individual chacterizations. It is
   implemented by City Stream Watch Program participants and RVCA staff. This
-  dataset is used extensively for Subwatershed & Catchment Reporting.
+  dataset is used extensively for Subwatershed & Catchment Reporting. Please visit <a
+  href="https://watersheds.rvca.ca">watersheds.rvca.ca</a>.
 resources:
   - name: Stream Characterization Shapefile
     url: 'https://gis.rvca.ca/openData/streamCharacterizationSHP.zip'
