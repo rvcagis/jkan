@@ -9,7 +9,8 @@ notes: >-
   subwatershed basis. Each subwatershed is captured every six years and is based
   on ortho-rectified imagery, also captured on a 6 year cycle (ie 2008, 2014,
   2020...). RVCA uses this dataset extensively for Subwatershed & Catchment
-  Reporting.
+  Reporting. Please visit <a
+  href="https://watersheds.rvca.ca">watersheds.rvca.ca</a>.
 resources:
   - name: RVCA Landcover Shapefile
     url: >-
