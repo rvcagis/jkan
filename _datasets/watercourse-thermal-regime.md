@@ -5,10 +5,11 @@ organization: RVCA
 notes: >-
   Last Update (mm-dd-yyyy): <strong>06-30-2020<br><br>Watercourse Thermal Regime</strong> is represented as a sampling point. Many factors 
   can influence fluctuations in stream temperature, including
-  springs, tributaries, precipitation runoff, discharge pipes and stream shading
-  from riparian vegetation. Water temperature is used along with the maximum air
+  springs, tributaries, runoff, discharge pipes and shading
+  from riparian vegetation. Water temperature is used along with maximum air
   temperature (using the Stoneman and Jones method) to classify a watercourse as
-  either warm water, cool water or cold water.
+  either warm water, cool water or cold water. Please visit <a
+  href="https://watersheds.rvca.ca">watersheds.rvca.ca</a>.
 resources:
   - name: Thermal Regime Shapefile
     url: 'https://gis.rvca.ca/openData/RVCA_thermalSitesSHP.zip'
