@@ -2,12 +2,20 @@
 schema: default
 title: Flood Risk/Hazard Mapping Reports
 organization: RVCA
-notes: ''
+notes: '<strong>Flood Risk/Hazard Mapping Reports</strong><br><br>In cooperation with local municipalities and the province, the RVCA identifies, studies and maps natural hazard areas along local rivers, lakes, streams and wetlands. Natural hazard areas include floodplains, unstable slopes. Natural features such as wetlands are also mapped. In the past, these maps were called flood risk maps.'
 license: 'https://gis.rvca.ca/termsUse.htm'
-metadata: ''
+resources:
+  - name: Flood Risk/Hazard Mapping Reports
+    url: 'https://www.rvca.ca/rvca-publications/flood-risk-mapping-report'
+    format: html
+  - name: RVCA Regulations Mapping
+    url: >-
+      https://rvcagis.maps.arcgis.com/apps/webappviewer/index.html?id=fd54fe0962284dc0a63deabc8357bb25
+    format: html
+license: 'https://gis.rvca.ca/termsUse.htm'
 category:
-  - Web Maps & Services
-maintainer: ''
-maintainer_email: ''
-lastUpdate: ''
+  - 'Web Maps & Services'
+maintainer: 'Dave Crossman, RVCA GIS Coordinator'
+maintainer_email: <a href="mailto:gis@rvca.ca">gis@rvca.ca</a>
+lastUpdate: <strong>01-13-2018</strong>
 ---
