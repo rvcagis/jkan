@@ -2,7 +2,7 @@
 schema: default
 title: Flood Risk/Hazard Mapping Reports
 organization: RVCA
-notes: 'In cooperation with local municipalities and the province, the RVCA identifies, studies and maps natural hazard areas along local rivers, lakes, streams and wetlands. Natural hazard areas include floodplains, unstable slopes and wetlands. In the past, these maps were called flood risk maps. Hazard mapping is used by municipalities for Zoning, Official plans, development review under the Planning Act, and by RVCA for regulations made under the Conservation Authorities Act (Section 28).'
+notes: 'In cooperation with local municipalities and the province, the RVCA identifies, studies and maps natural hazard areas along local rivers, lakes, streams and wetlands. Natural hazard areas include floodplains, unstable slopes and wetlands. In the past, these maps were called flood risk maps. Hazard mapping is used by municipalities for Zoning, development review under the Planning Act, and by RVCA for regulations made under the Conservation Authorities Act (Section 28).'
 license: 'https://gis.rvca.ca/termsUse.htm'
 resources:
   - name: Flood Risk/Hazard Mapping Reports
