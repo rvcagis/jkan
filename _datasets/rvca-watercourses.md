@@ -3,7 +3,7 @@ schema: default
 title: RVCA Watercourses
 organization: RVCA
 notes: >-
-  Last Update (mm-dd-yyyy): <strong>10-10-2019<br><br>RVCA Watercourses</strong>
+  Last Update (mm-dd-yyyy): <strong>01-20-2021<br><br>RVCA Watercourses</strong>
   represent the Rivers, Streams, Creeks, Drains etc within the RVCA, as a
   centerline feature class. They have been delineated using the MNRF LIO
   watercourse standard and using the existing LIO Watercourse layer as a base.
@@ -30,5 +30,5 @@ category:
   - RVCA Open Datasets
 maintainer: 'Dave Crossman, RVCA GIS Coordinator'
 maintainer_email: '<a href="mailto:gis@rvca.ca">gis@rvca.ca</a>'
-lastUpdate: <strong>10-10-2019</strong>
+lastUpdate: <strong>01-20-2021</strong>
 ---
