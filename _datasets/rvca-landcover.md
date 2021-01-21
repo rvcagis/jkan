@@ -3,7 +3,7 @@ schema: default
 title: RVCA Landcover
 organization: RVCA
 notes: >-
-  Last Update (mm-dd-yyyy): <strong>10-10-2019<br><br>RVCA Landcover</strong>
+  Last Update (mm-dd-yyyy): <strong>01-20-2021<br><br>RVCA Landcover</strong>
   represents the physical land type on the earth's surface (ie woodland,
   wetland, water, agriculture, builtup-area etc). It is compiled annually on a
   subwatershed basis. Each subwatershed is captured every six years and is based
@@ -33,5 +33,5 @@ category:
   - RVCA Open Datasets
 maintainer: 'Dave Crossman, RVCA GIS Coordinator'
 maintainer_email: <a href="mailto:gis@rvca.ca">gis@rvca.ca</a>
-lastUpdate: <strong>10-10-2019</strong>
+lastUpdate: <strong>01-20-2021</strong>
 ---
