@@ -27,6 +27,8 @@ license: 'https://gis.rvca.ca/openData/RVCA Standard Data Licence.pdf'
 metadata: >-
   <big><strong><a href="https://metadata.cacore.ca/Public/Details/RVCA/id=1021">View  
   Metadata...</a></strong></big>
+map: >- 
+ <big><strong><a href="https://metadata.cacore.ca/Public/Details/RVCA/id=1021">View Map...</a></strong></big>
 category:
   - RVCA Open Datasets
 maintainer: 'Dave Crossman, RVCA GIS Coordinator'
