@@ -19,6 +19,9 @@ dataset_fields:
   - field_name: metadata
     label: 'Metadata'
     datajson: metadata
+  - field_name: map
+    label: 'Map'
+    datajson: map
   - field_name: category
     label: Category
     form_template: form/category.html
