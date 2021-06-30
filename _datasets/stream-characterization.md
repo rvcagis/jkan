@@ -13,6 +13,13 @@ resources:
   - name: Stream Characterization Shapefile
     url: 'https://gis.rvca.ca/openData/streamCharacterizationSHP.zip'
     format: shp
+  - name: Stream Characterization Rest Endpoint
+    url: 'https://gis.rvca.ca/arcgis/rest/services/Internal/RVCA_WaterCharacterization_Service/MapServer/6'
+    format: api
+  - name: Stream Characterization Generate Kml
+    url: >-
+      https://gis.rvca.ca/arcgis/rest/services/Internal/RVCA_WaterCharacterization_Service/MapServer/generateKml
+    format: kml
   - name: Stream Characterization CAD-DWG
     url: 'https://gis.rvca.ca/openData/streamCharacterizationDWG.zip'
     format: cad
