@@ -15,6 +15,7 @@ resources:
   - name: Weather Stations Map
     url: 'https://rvcagis.maps.arcgis.com/apps/webappviewer/index.html?id=6a2421e005fc439d9ecd3d84db633feb'
     format: html
+license: 'https://gis.rvca.ca/termsUse.htm'
 category:
   - Web Maps & Services
 maintainer: 'Dave Crossman, RVCA GIS Coordinator'
