@@ -3,7 +3,7 @@ schema: default
 title: Source Protection Policy Areas
 organization: RVCA
 notes: >-
-  Last Update (mm-dd-yyyy): <strong>10-10-2019<br><br>Source Protection
+  Last Update (mm-dd-yyyy): <strong>05-02-2022<br><br>Source Protection
   Policy Areas</strong> represents a summary of Drinking Water Source Protection
   (DWSP) Policies by Zone. The Zones include <strong>Well Head Protection Areas</strong> (WHPAs)
   & <strong>Intake Protection Zones</strong> (IPZs) associated with Municipality drinking water.
@@ -38,5 +38,5 @@ category:
   - RVCA Open Datasets
 maintainer: 'Dave Crossman, RVCA GIS Coordinator'
 maintainer_email: '<a href="mailto:gis@rvca.ca">gis@rvca.ca</a>'
-lastUpdate: <strong>10-10-2019</strong>
+lastUpdate: <strong>05-02-2022</strong>
 ---
