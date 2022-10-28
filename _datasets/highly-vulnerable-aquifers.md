@@ -24,6 +24,9 @@ resources:
   - name: Vulnerable Aquifers CAD-DWG
     url: 'https://gis.rvca.ca/openData/highVulnerable_AquiferDWG.zip'
     format: cad
+  - name: Highly Vulnerable Aquifers Story Map
+    url: 'https://storymaps.arcgis.com/stories/5c34ab1f3b134630b22dac4b478d4987'
+    format: html
 license: 'https://gis.rvca.ca/openData/RVCA Standard Data Licence.pdf'
 metadata: >-
   <big><strong><a href="https://metadata.cacore.ca/Public/Details/RVCA/id=852">View
