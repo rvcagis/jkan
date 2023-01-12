@@ -16,12 +16,12 @@ resources:
     url: >-
       https://gis.rvca.ca/openData/RVCA_WoodlandSHP.zip
     format: shp
-  - name: RVCA Landcover Rest Endpoint
-    url: 'https://gis.rvca.ca/arcgis/rest/services/RVCA_LandCover_Cache/MapServer/0'
+  - name: RVCA Woodlands Rest Endpoint
+    url: 'https://gis.rvca.ca/server/rest/services/RVCA_NaturalFeatures_Service/MapServer/5'
     format: api
-  - name: RVCA Landcover Generate Kml
+  - name: RVCA Woodlands Generate Kml
     url: >-
-      https://gis.rvca.ca/arcgis/rest/services/RVCA_LandCover_Cache/MapServer/generateKml
+      https://gis.rvca.ca/server/rest/services/RVCA_NaturalFeatures_Service/MapServer/generateKml
     format: kml
   - name: RVCA Landcover Web Map
     url: >-
