@@ -4,11 +4,7 @@ title: RVCA Woodlands
 organization: RVCA
 notes: >-
   Last Update (mm-dd-yyyy): <strong>01-12-2023<br><br>RVCA Woodlands</strong>
-  represents the physical land type on the earth's surface (ie woodland,
-  wetland, water, agriculture, builtup-area etc). It is compiled annually on a
-  subwatershed basis. Each subwatershed is captured every six years and is based
-  on ortho-rectified imagery, also captured on a 6 year cycle (ie 2008, 2014,
-  2020...). RVCA uses this dataset extensively for Subwatershed & Catchment
+  is derived from the RVCA Landcover dataset and is based on ortho-rectified imagery. RVCA Woodlands include Wooded Areas, Treed Swamps, Plantations & Hedgerows. RVCA uses this dataset extensively for Subwatershed & Catchment
   Reporting. Please visit <a
   href="https://watersheds.rvca.ca">watersheds.rvca.ca</a>.
 resources:
