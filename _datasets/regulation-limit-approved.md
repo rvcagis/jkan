@@ -3,7 +3,7 @@ schema: default
 title: Regulation Limit Approved
 organization: RVCA
 notes: >-
-  Last Update (mm-dd-yyyy): <strong>10-30-2022<br><br>Regulation Limit
+  Last Update (mm-dd-yyyy): <strong>06-25-2024<br><br>Regulation Limit
   Approved</strong> represents the dominant hazard extent for Section 28 -
   Development, Interference with Wetlands and Alterations to Shorelines and
   Watercourses Regulation (Ontario Regulation 174/06). The potential hazards are
