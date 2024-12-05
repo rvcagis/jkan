@@ -7,7 +7,7 @@ notes: >-
   access)</strong> represent the RVCA Conservation Areas with public access,
   including Baxter, Chapman Mills, Foley Mountain, W.A Taylor etc. For further
   information on individual Conservation Areas, please visit <a
-  href="https://www.rvca.ca/conservation-areas">rvca.ca/conservation-areas</a>.
+  href="https://www.rvca.ca/conservation-areas/explore">rvca.ca/conservation-areas</a>.
 resources:
   - name: RVCA Conservation Areas Shapefile
     url: 'https://gis.rvca.ca/openData/CALands_wAccessSHP.zip'
