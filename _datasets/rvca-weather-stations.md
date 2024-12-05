@@ -13,7 +13,7 @@ resources:
     url: 'http://his.rvca.ca/rvcafwl'
     format: html
   - name: Weather Stations Map
-    url: 'https://rvcagis.maps.arcgis.com/apps/webappviewer/index.html?id=6a2421e005fc439d9ecd3d84db633feb'
+    url: 'https://his.rvca.ca/rvcafwl/weatherStations.html'
     format: html
 license: 'https://gis.rvca.ca/termsUse.htm'
 category:
