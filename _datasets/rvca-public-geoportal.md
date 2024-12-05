@@ -14,7 +14,7 @@ resources:
     format: html
   - name: RVCA Regulations Mapping
     url: >-
-      https://rvcagis.maps.arcgis.com/apps/webappviewer/index.html?id=fd54fe0962284dc0a63deabc8357bb25
+      https://gis.rvca.ca/geoportal
     format: html
 license: 'https://gis.rvca.ca/termsUse.htm'
 category:
