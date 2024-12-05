@@ -6,11 +6,11 @@ notes: 'In cooperation with local municipalities and the province, the RVCA iden
 license: 'https://gis.rvca.ca/termsUse.htm'
 resources:
   - name: Flood Risk/Hazard Mapping Reports
-    url: 'https://www.rvca.ca/rvca-publications/flood-risk-mapping-report'
+    url: 'https://www.rvca.ca/watershed-management/hazard-mapping-projects'
     format: html
   - name: RVCA Regulations Mapping
     url: >-
-      https://rvcagis.maps.arcgis.com/apps/webappviewer/index.html?id=fd54fe0962284dc0a63deabc8357bb25
+      https://gis.rvca.ca/geoportal
     format: html
 license: 'https://gis.rvca.ca/termsUse.htm'
 category:
