@@ -24,7 +24,7 @@ resources:
     url: 'https://gis.rvca.ca/openData/CALands_wAccessDWG.zip'
     format: cad
   - name: RVCA Conservation Areas Web Map
-    url: 'https://www.rvca.ca/conservation-areas'
+    url: 'https://www.rvca.ca/conservation-areas/explore'
     format: html
 license: 'https://gis.rvca.ca/openData/RVCA Open Data Licence.pdf'
 metadata: >-
