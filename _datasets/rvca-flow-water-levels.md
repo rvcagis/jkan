@@ -14,7 +14,7 @@ resources:
     url: 'http://his.rvca.ca/rvcafwl'
     format: html
   - name: Flow & Water Levels Map
-    url: 'https://rvcagis.maps.arcgis.com/apps/webappviewer/index.html?id=7e068cc323c244e0ad14ed9d1d5d9122'
+    url: 'https://gis.rvca.ca/hydrometrics.html'
     format: html
 license: 'https://gis.rvca.ca/termsUse.htm'
 category:
