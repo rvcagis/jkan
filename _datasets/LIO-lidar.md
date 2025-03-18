@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Regulation Limit Approved
+title: LiDAR - LIO (Land Information Ontario)
 organization: RVCA
 notes: >-
   Last Update (mm-dd-yyyy): <strong>06-25-2024<br><br>Regulation Limit
