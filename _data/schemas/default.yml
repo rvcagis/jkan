@@ -61,6 +61,7 @@ resource_fields:
       - cad
       - pdf
       - xls
+      - doc
 
 organization_fields:
   - field_name: title
