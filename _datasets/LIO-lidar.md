@@ -3,12 +3,8 @@ schema: default
 title: LiDAR - LIO (Land Information Ontario)
 organization: RVCA
 notes: >-
-  Last Update (mm-dd-yyyy): <strong>01-21-2025<br><br>LiDAR - LIO (Land Information Ontario)</strong> represents the dominant hazard extent for Section 28 -
-  Development, Interference with Wetlands and Alterations to Shorelines and
-  Watercourses Regulation (Ontario Regulation 174/06). The potential hazards are
-  flood, wetland, slope & unstable soils, and each includes an associated
-  allowance. Please see the associated <i>Regulation Limit Index</i> dataset for
-  regulation update details.
+  Last Update (mm-dd-yyyy): <strong>01-21-2025<br><br>LiDAR - LIO (Land Information Ontario)</strong> The Ontario Digital Terrain Model (Lidar-Derived) is a raster dataset, from multiple acquisition projects, representing the bare-earth terrain derived from a classified lidar point cloud.
+The DTM data is available in the form of 1-km by 1-km non-overlapping tiles grouped into packages for download.
 resources:
   - name: Regulation Limit Shapefile
     url: 'https://gis.rvca.ca/openData/regulationLimit_ApprovedSHP.zip'
