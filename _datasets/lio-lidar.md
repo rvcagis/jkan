@@ -1,7 +1,7 @@
 ---
 schema: default
 title: LiDAR DTM/DEM - LIO (Land Information Ontario)
-organization: RVCA
+organization: LIO
 notes: >-
   Last Update (mm-dd-yyyy): <strong>01-21-2025<br><br>LiDAR DTM/DEM - LIO (Land Information Ontario)</strong> The Ontario Digital 
   Terrain Model (Lidar-Derived) is a raster dataset, from multiple acquisition projects, representing the bare-earth terrain
