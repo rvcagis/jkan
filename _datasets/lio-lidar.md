@@ -8,6 +8,10 @@ notes: >-
   derived from a classified lidar point cloud. The DTM data is available in the form of 1-km by 1-km non-overlapping tiles 
   grouped into packages for download. For more details, please visit...<a href="https://geohub.lio.gov.on.ca/pages/ontario-elevation-mapping-program">Ontario Elevation Mapping Program</a>.
 resources:
+  - name: LiDAR DTM Download Map
+    url: >-
+      https://geohub.lio.gov.on.ca/maps/mnrf::ontario-digital-terrain-model-lidar-derived/explore?location=45.964421%2C-82.304145%2C6.27&path=
+    format: html
   - name: Ontario Elevation Mapping Program
     url: 'https://geohub.lio.gov.on.ca/pages/ontario-elevation-mapping-program'
     format: html
@@ -22,10 +26,6 @@ resources:
   - name: LiDAR DTM User Guide
     url: 'https://www.publicdocs.mnr.gov.on.ca/mirb/Ontario-DTM-Lidar-Derived-User-Guide.docx'
     format: doc
-  - name: LiDAR DTM Download Map
-    url: >-
-      https://geohub.lio.gov.on.ca/maps/mnrf::ontario-digital-terrain-model-lidar-derived/explore?location=45.964421%2C-82.304145%2C6.27&path=
-    format: html
 license: 'https://www.ontario.ca/page/open-government-licence-ontario'
 metadata: >-
   <big><strong><a href="https://geohub.lio.gov.on.ca/maps/mnrf::ontario-digital-terrain-model-lidar-derived/about">View      
