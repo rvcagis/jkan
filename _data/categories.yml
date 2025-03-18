@@ -10,3 +10,7 @@
   logo: /img/categories/map-licence.png
   logo_credit: ''
   featured: true
+- name: LIO Open Datasets
+  logo: /img/categories/map-landuse.png
+  logo_credit: ''
+  featured: true
