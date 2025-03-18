@@ -3,7 +3,7 @@ schema: default
 title: LiDAR DTM/DEM - LIO
 organization: RVCA
 notes: >-
-  Last Update (mm-dd-yyyy): <strong>01-21-2025<br><br>LiDAR DTM/DEM - LIO</strong> The Ontario Digital 
+  Last Update (mm-dd-yyyy): <strong>01-21-2025<br><br>LiDAR DTM/DEM - Land Information Ontario (LIO)</strong> The Ontario Digital 
   Terrain Model (Lidar-Derived) is a raster dataset, from multiple acquisition projects, representing the bare-earth terrain
   derived from a classified lidar point cloud. The DTM data is available in the form of 1-km by 1-km non-overlapping tiles 
   grouped into packages for download. For more details, please visit...<a href="https://geohub.lio.gov.on.ca/pages/ontario-elevation-mapping-program">Ontario Elevation Mapping Program</a>.
