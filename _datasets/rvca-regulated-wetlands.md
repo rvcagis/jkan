@@ -3,10 +3,10 @@ schema: default
 title: RVCA Regulated Wetlands
 organization: RVCA
 notes: >-
-  Last Update (mm-dd-yyyy): <strong>04-04-2022<br><br>RVCA Regulated
-  Wetlands</strong> represent the Wetlands (including a 120m allowance) within
+  Last Update (mm-dd-yyyy): <strong>06-25-2024<br><br>RVCA Regulated
+  Wetlands</strong> represent the Wetlands (including a 30m allowance) within
   the Section 28 - Development, Interference with Wetlands and Alterations to
-  Shorelines and Watercourses Regulation (Ontario Regulation 174/06). These
+  Shorelines and Watercourses Regulation (Ontario Regulation 41/24). These
   wetlands include Provincially Significant Wetlands (PSW) and other important
   RVCA wetlands. Please see the associated <i>Regulation Limit Approved</i>
   dataset.
@@ -41,5 +41,5 @@ category:
   - RVCA Open Datasets
 maintainer: 'Dave Crossman, RVCA GIS Coordinator'
 maintainer_email: '<a href="mailto:gis@rvca.ca">gis@rvca.ca</a>'
-lastUpdate: <strong>04-04-2022</strong>
+lastUpdate: <strong>06-25-2024</strong>
 ---
