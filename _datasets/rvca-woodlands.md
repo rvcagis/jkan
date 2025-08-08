@@ -22,7 +22,7 @@ resources:
     url: >-
       https://rvcagis.maps.arcgis.com/apps/webappviewer/index.html?id=fee2c1a621224da5be37c8301ca96db6
     format: html
-license: 'https://gis.rvca.ca/openData/RVCA Standard Data Licence.pdf'
+license: 'https://gis.rvca.ca/openData/RVCA Open Data Licence.pdf'
 metadata: <big><strong><a href="https://metadata.cacore.ca/Public/Details/RVCA/id=1053">View Metadata...</a></strong></big>
 map: >- 
  <big><strong><a href="https://rvcagis.maps.arcgis.com/apps/webappviewer/index.html?id=2245400261414423bc883126376be546">View Map...</a></strong></big>
