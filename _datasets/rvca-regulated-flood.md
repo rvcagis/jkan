@@ -15,6 +15,9 @@ resources:
   - name: Regulated Flood (Allowance) Shapefile
     url: 'https://gis.rvca.ca/openData/regulatedFlood_wAllowanceSHP.zip'
     format: shp
+  - name: Regulated Flood (Xsecs) Shapefile
+    url: 'https://gis.rvca.ca/openData/regulatedFlood_xsecsSHP.zip'
+    format: shp
   - name: Regulated Flood Rest Endpoint
     url: >-
       https://gis.rvca.ca/arcgis/rest/services/RVCA_Hazards_publicService/MapServer/5
@@ -28,6 +31,9 @@ resources:
     format: cad
   - name: Regulated Flood (Allowance) CAD-DWG
     url: 'https://gis.rvca.ca/openData/regulatedFlood_wAllowanceDWG.zip'
+    format: cad
+  - name: Regulated Flood (Xsecs) CAD-DWG
+    url: 'https://gis.rvca.ca/openData/regulatedFlood_xsecsDWG.zip'
     format: cad
 license: 'https://gis.rvca.ca/openData/RVCA Standard Data Licence.pdf'
 metadata: >-
