@@ -3,7 +3,7 @@ schema: default
 title: RVCA Woodlands
 organization: RVCA
 notes: >-
-  Last Update (mm-dd-yyyy): <strong>01-12-2023<br><br>RVCA Woodlands</strong> is a polygon feature class derived from the RVCA Landcover dataset and is based on leaf-off ortho-rectified imagery (DRAPE). RVCA Woodlands include Wooded Areas, Treed Swamps, Plantations & Hedgerows. RVCA uses this dataset extensively for Subwatershed & Catchment
+  Last Update (mm-dd-yyyy): <strong>05-29-2026<br><br>RVCA Woodlands</strong> is a polygon feature class derived from the RVCA Landcover dataset and is based on leaf-off ortho-rectified imagery (DRAPE). RVCA Woodlands include Wooded Areas, Treed Swamps, Plantations & Hedgerows. RVCA uses this dataset extensively for Subwatershed & Catchment
   Reporting. Please visit <a
   href="https://watersheds.rvca.ca">watersheds.rvca.ca</a>.
 resources:
@@ -30,6 +30,6 @@ category:
   - RVCA Open Datasets
 maintainer: 'Dave Crossman, RVCA GIS Coordinator'
 maintainer_email: <a href="mailto:gis@rvca.ca">gis@rvca.ca</a>
-lastUpdate: <strong>01-12-2023</strong>
+lastUpdate: <strong>05-29-2026</strong>
 ---
 
