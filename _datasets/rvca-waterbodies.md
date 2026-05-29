@@ -3,7 +3,7 @@ schema: default
 title: RVCA Waterbodies
 organization: RVCA
 notes: >-
-  Last Update (mm-dd-yyyy): <strong>01-10-2023<br><br>RVCA Waterbodies</strong>
+  Last Update (mm-dd-yyyy): <strong>05-29-2026<br><br>RVCA Waterbodies</strong>
   represent the Lakes, Ponds and large Rivers within the RVCA, as a polygon
   feature class. They have been delineated using the MNRF LIO waterbody standard
   and using the existing LIO Waterbody layer as a base. This dataset is used
@@ -30,5 +30,5 @@ category:
   - RVCA Open Datasets
 maintainer: 'Dave Crossman, RVCA GIS Coordinator'
 maintainer_email: '<a href="mailto:gis@rvca.ca">gis@rvca.ca</a>'
-lastUpdate: <strong>01-10-2023</strong>
+lastUpdate: <strong>05-29-2026</strong>
 ---
