@@ -3,7 +3,7 @@ schema: default
 title: Stream Characterization
 organization: RVCA
 notes: >-
-  Last Update (mm-dd-yyyy): <strong>8-10-2020<br><br>Stream
+  Last Update (mm-dd-yyyy): <strong>05-29-2026<br><br>Stream
   Characterization</strong> is represented by a watercourse centerline summarizing the
   Ontario Stream Assessment Protocol (OSAP) monitoring protocol results. The dataset also includes an associated excel spreadsheet with the individual chacterizations. It is
   implemented by City Stream Watch Program participants and RVCA staff. This
@@ -36,5 +36,5 @@ category:
   - RVCA Open Datasets
 maintainer: 'Dave Crossman, RVCA GIS Coordinator'
 maintainer_email: '<a href="mailto:gis@rvca.ca">gis@rvca.ca</a>'
-lastUpdate: <strong>8-10-2020</strong>
+lastUpdate: <strong>05-29-2026</strong>
 ---
