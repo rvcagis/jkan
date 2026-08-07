@@ -15,7 +15,7 @@ resources:
     url: 'https://www.mrsourcewater.ca/en/'
     format: html
   - name: DWSP Policy Web Map
-    url: 'http://www.mrsourcewater.ca/en/library/maps/29-clickable-map-tool'
+    url: 'https://www.mrsourcewater.ca/en/resources/interactive-map-tool'
     format: html
   - name: Highly Vulnerable Aquifers Story Map
     url: 'https://storymaps.arcgis.com/stories/5c34ab1f3b134630b22dac4b478d4987'
